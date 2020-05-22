@@ -1,0 +1,975 @@
+urn,citationScheme,groupName,workTitle,versionLabel,exemplarLabel,online,language
+urn:cts:greekLit:ggm0001.ggm001.1st1K-grc1,"chapter,paragraph",Anonymous,Anametresis Pontou,NA,NA,TRUE,"grc,lat,deu"
+urn:cts:hebrewlit:heb0001.heb010.1st1K-eng1,"chapter,verse",NA,Isaias,NA,NA,TRUE,lat
+urn:cts:greekLit:ogl0001.ogl001.1st1K-grc1,fragment,Pinytus,De Epistola Pinyti ad Dionysium,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:stoa0033a.tlg028.1st1K-grc1,chapter,pseudo-Aristotle,De mundo,NA,NA,TRUE,grc
+urn:cts:greekLit:stoa0033a.tlg043.1st1K-grc1,chapter,pseudo-Aristotle,De spiritu,NA,NA,TRUE,grc
+urn:cts:greekLit:stoa0121.stoa001.opp-grc1,"book,chapter",Eutropius,Breviarium historiae romanae,NA,NA,TRUE,grc
+urn:ĉts:greekLit:stoa0146d.stoa001.opp-grc1,chapter,Hegemonius,Acta Archelai,NA,NA,TRUE,"lat,grc"
+urn:ĉts:greekLit:stoa0146d.stoa001.opp-lat1,chapter,Hegemonius,Acta Archelai,NA,NA,TRUE,lat
+urn:cts:greekLit:tlg0011.tlg003.1st1K-grc1,line,Sophocles,"Ajax,Machine readable text",NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0015.tlg001.opp-grc1,"book,chapter,section",Herodian,Ab excessu divi Marci,NA,NA,TRUE,"lat,grc"
+urn:cts:greekLit:tlg0018.tlg001.opp-grc1,chapter,Philo Judaeus,De opificio mundi,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0018.tlg002.opp-grc1,"book,chapter",Philo Judaeus,Legum allegoriarum libri i‑iii,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0018.tlg003.opp-grc1,chapter,Philo Judaeus,De Cherubim,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0018.tlg004.opp-grc1,chapter,Philo Judaeus,De sacrificiis Abelis et Caini,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0018.tlg005.opp-grc1,chapter,Philo Judaeus,Quod deterius potiori insidiari soleat,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0018.tlg006.opp-grc1,chapter,Philo Judaeus,De Posteritate Caini,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0018.tlg007.opp-grc1,chapter,Philo Judaeus,De gigantibus,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0018.tlg008.opp-grc1,chapter,Philo Judaeus,Quod deus sit immutabilis,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0018.tlg009.opp-grc1,chapter,Philo Judaeus,De agricultura,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0018.tlg010.opp-grc1,chapter,Philo Judaeus,De plantatione,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0018.tlg011.opp-grc1,chapter,Philo Judaeus,De ebrietate,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0018.tlg012.opp-grc1,chapter,Philo Judaeus,De sobrietate,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0018.tlg013.opp-grc1,chapter,Philo Judaeus,De confusione linguarum,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0018.tlg014.opp-grc1,chapter,Philo Judaeus,De migratione Abrahami,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0018.tlg015.opp-grc1,chapter,Philo Judaeus,Quis rerum divinarum heres sit,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0018.tlg016.opp-grc1,chapter,Philo Judaeus,De congressu eruditionis gratia,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0018.tlg017.opp-grc1,chapter,Philo Judaeus,De fuga et inventione,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0018.tlg018.opp-grc1,chapter,Philo Judaeus,De mutatione nominum,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0018.tlg019.opp-grc1,"book,chapter",Philo Judaeus,De somniis (lib. i‑ii),NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0018.tlg020.opp-grc1,chapter,Philo Judaeus,De Abrahamo,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0018.tlg021.opp-grc1,chapter,Philo Judaeus,De Josepho,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0018.tlg022.opp-grc1,"book,chapter",Philo Judaeus,De vita Mosis (lib. i‑ii),NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0018.tlg023.opp-grc1,chapter,Philo Judaeus,De decalogo,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0018.tlg024.opp-grc1,"book,chapter",Philo Judaeus,De specialibus legibus (lib. i‑iv),NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0018.tlg025.opp-grc1,chapter,Philo Judaeus,De virtutibus,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0018.tlg026.opp-grc1,chapter,Philo Judaeus,De praemiis et poenis et De exsecrationibus,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0018.tlg027.opp-grc1,chapter,Philo Judaeus,Quod omnis probus liber sit,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0018.tlg028.opp-grc1,chapter,Philo Judaeus,De vita contemplativa,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0018.tlg029.opp-grc1,chapter,Philo Judaeus,De aeternitate mundi,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0018.tlg030.opp-grc1,chapter,Philo Judaeus,In Flaccum,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0018.tlg031.opp-grc1,chapter,Philo Judaeus,Legatio Ad Gaium,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0031.tlg002.1st1K-cop1,"chapter,verse",NA,Mark Chapter 1,NA,NA,TRUE,cop
+urn:cts:greekLit:tlg0031.tlg002.INTF-grc1,"chapter,verse",NA,01,NA,NA,TRUE,grc
+urn:cts:greekLit:tlg0057.tlg001.1st1K-grc1,chapter,Galen,Adhortatio ad artes addiscendas,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0057.tlg001.1st1K-grc2,chapter,Galen,Protrepticus,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0057.tlg002.1st1K-grc1,chapter,Galen,De optima doctrina,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0057.tlg003.1st1K-grc1,chapter,Galen,Quod optimus medicus sit quoque philosophus,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0057.tlg004.1st1K-grc1,chapter,Galen,De sectis ad eos qui introducuntur,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0057.tlg006.1st1K-grc1,chapter,Galen,De constitutione artis medicae ad Patrophilum,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0057.tlg007.1st1K-grc1,chapter,Galen,Ars Medica,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0057.tlg008.1st1K-grc1,"book,chapter",Galen,De elementis ex Hippocrate,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0057.tlg009.1st1K-grc1,"book,chapter",Galen,De temperamentis,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0057.tlg009.1st1K-grc2,"book,chapter",Galen,De temperamentis,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0057.tlg010.1st1K-grc1,"book,chapter",Galen,De naturalibus facultatibus,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0057.tlg011.1st1K-grc1,"book,chapter",Galen,De anatomicis administrationibus,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0057.tlg012.1st1K-grc1,chapter,Galen,De ossibus ad tirones,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0057.tlg013.1st1K-grc1,chapter,Galen,De venarum arteriarumque dissectione,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0057.tlg014.1st1K-grc1,chapter,Galen,De nervorum dissectione,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0057.tlg015.1st1K-grc1,chapter,Galen,De instrumento odoratus,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0057.tlg016.1st1K-grc1,chapter,Galen,De uteri dissectione,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0057.tlg017.1st1K-grc1,"book,chapter",Galen,De usu partium corporis humani I-XI,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0057.tlg018.1st1K-grc1,"book,chapter",Galen,De motu musculorum,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0057.tlg019.1st1K-grc1,chapter,Galen,De victu attenuante,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0057.tlg019.opp-grc1,section,Galen,De Victu Attenuante,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0057.tlg020.1st1K-grc1,chapter,Galen,De utilitate respirationis,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0057.tlg021.1st1K-grc1,"book,chapter",Galen,De semine,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0057.tlg022.1st1K-grc1,chapter,Galen,De foetuum formatione,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0057.tlg023.1st1K-grc1,chapter,Galen,An in arteriis sanguis contineatur,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0057.tlg024.1st1K-grc1,chapter,Galen,De optima corporis nostri constitutione,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0057.tlg025.1st1K-grc1,work,Galen,De bono habitu,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0057.tlg027.1st1K-grc1,chapter,Galen,Quod animi mores corporis temperamenta sequantur,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0057.tlg028.1st1K-grc1,chapter,Galen,De propriorum animi cuiuslibet affectuum dignotione et curatione,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0057.tlg029.1st1K-grc1,chapter,Galen,De animi cuiuslibet peccatorum dignotione et curatione,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0057.tlg030.1st1K-grc1,chapter,Galen,De atra bile,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0057.tlg031.1st1K-grc1,chapter,Galen,De usu pulsuum,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1,"book,chapter",Galen,De placitis Hippocratis et Platonis,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0057.tlg034.1st1K-grc1,chapter,Galen,De parvae pilae exercitio,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0057.tlg034.1st1K-grc2,chapter,Galen,De parvae pilae exercitio,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2,work,Galen,De venereis,NA,NA,TRUE,grc
+urn:cts:greekLit:tlg0057.tlg035.1st1K-grc3,chapter,Galen,De venereis (ap. Oribasium),NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0057.tlg036.1st1K-grc1,"book,chapter",Galen,De sanitate tuenda,NA,NA,TRUE,"la,greek"
+urn:cts:greekLit:tlg0057.tlg038.1st1K-grc1,chapter,Galen,De rebus boni malique suci,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0057.tlg039.1st1K-grc1,chapter,Galen,De ptisana,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0057.tlg040.1st1K-grc1,book,Galen,De dignotione ex insomniis,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0057.tlg041.1st1K-grc1,chapter,Galen,De morborum differentiis,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0057.tlg042.1st1K-grc1,chapter,Galen,De causis morborum,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0057.tlg043.1st1K-grc1,chapter,Galen,De symptomatum differentiis,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0057.tlg044.1st1K-grc1,"book,chapter",Galen,De symptomatum causis,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0057.tlg045.1st1K-grc1,"book,chapter",Galen,De differentiis febrium,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0057.tlg046.1st1K-grc1,chapter,Galen,De morborum temporibus,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0057.tlg047.1st1K-grc1,chapter,Galen,De totius morbi temporibus,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0057.tlg048.1st1K-grc1,chapter,Galen,De typis,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1,chapter,Galen,Adversus eos qui de typis scripserunt vel de circuitibus,NA,NA,TRUE,grc
+urn:cts:greekLit:tlg0057.tlg050.1st1K-grc1,chapter,Galen,De plenitudine,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0057.tlg051.1st1K-grc1,chapter,Galen,"De tremore, palpitatione, convulsione et rigore",NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0057.tlg052.1st1K-grc1,chapter,Galen,De comate secundum Hippocratem,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0057.tlg053.1st1K-grc1,chapter,Galen,De marcore,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0057.tlg054.1st1K-grc1,chapter,Galen,De tumoribus praeter naturam,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0057.tlg055.1st1K-grc1,chapter,Galen,De inaequali intemperie,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0057.tlg056.1st1K-grc1,"book,chapter",Galen,De difficultate respirationis,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0057.tlg057.1st1K-grc1,"book,chapter",Galen,De locis affectis,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0057.tlg058.1st1K-grc1,chapter,Galen,De pulsibus ad tirones,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0057.tlg059.1st1K-grc1,"book,chapter",Galen,De differentiis pulsuum,NA,NA,TRUE,grc
+urn:cts:greekLit:tlg0057.tlg060.1st1K-grc1,"book,chapter",Galen,De dignoscendis pulsibus,NA,NA,TRUE,grc
+urn:cts:greekLit:tlg0057.tlg061.1st1K-grc1,"book,chapter",Galen,De causis pulsuum,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0057.tlg062.1st1K-grc1,"book,chapter",Galen,De praesagitione ex pulsibus,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0057.tlg063.1st1K-grc1,chapter,Galen,Synopsis librorum suorum de pulsibus,NA,NA,TRUE,grc
+urn:cts:greekLit:tlg0057.tlg064.1st1K-grc1,"book,chapter",Galen,De crisibus,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0057.tlg065.1st1K-grc1,"book,chapter",Galen,De diebus decretoriis,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0057.tlg066.1st1K-grc1,"book,chapter",Galen,De methodo medendi,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0057.tlg067.1st1K-grc1,"book,chapter",Galen,Ad Glauconem de methodo medendi,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0057.tlg068.1st1K-grc1,chapter,Galen,De venae sectione adversus Erasistratum,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0057.tlg069.1st1K-grc1,chapter,Galen,De venae sectione adversus Erasistrateos Romae degentes,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0057.tlg070.1st1K-grc1,chapter,Galen,De curandi ratione per venae sectionem,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0057.tlg071.1st1K-grc1,chapter,Galen,"De hirudinibus, revulsione, cucurbitula, incisione et scarificatione",NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0057.tlg072.1st1K-grc1,chapter,Galen,De purgantium medicamentorum facultate,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0057.tlg073.1st1K-grc1,chapter,Galen,Quos quibus catharticis medicamentis et quando purgare oporteat,NA,NA,TRUE,grc
+urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2,"chapter,section",Galen,Quos quibus catharticis medicamentis et quando purgare                     oporteat (ap. Oribasium),NA,NA,TRUE,"grc,lat,deu"
+urn:cts:greekLit:tlg0057.tlg074.1st1K-grc1,chapter,Galen,Pro puero epileptico consilium,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0057.tlg075.1st1K-grc1,"book,chapter,section",Galen,De simplicium medicamentorum temperamentis ac facultatibus I-VI,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0057.tlg076.1st1K-grc1,"book,chapter",Galen,De compositione medicamentorum secundum locos I-VI,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0057.tlg077.1st1K-grc1,"book,chapter",Galen,De compositione medicamentorum per genera,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0057.tlg078.1st1K-grc1,"book,chapter",Galen,De antidotis,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0057.tlg079.1st1K-grc1,chapter,Galen,De theriaca ad Pisonem,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0057.tlg081.1st1K-grc1,chapter,Galen,Institutio logica,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0057.tlg082.1st1K-grc1,chapter,Galen,De sophismatis seu captionibus penes dictionem,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0057.tlg083.1st1K-grc1,chapter,Galen,De praenotione ad Epigenem,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0057.tlg084.1st1K-grc1,work,Galen,De substantia facultatum naturalium fragmentum,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0057.tlg085.1st1K-grc1,"book,chapter",Galen,In Hippocratis De natura hominis,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0057.tlg086.1st1K-grc1,work,Galen,In Hippocratis vel Polybi Opus de Salubri Victus Ratione Privatorum Commentarius,NA,NA,TRUE,grc
+urn:cts:greekLit:tlg0057.tlg087.1st1K-grc1,"book,chapter",Galen,In Hippocratis De victu acutorum,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0057.tlg089.1st1K-grc1,"book,chapter,section",Galen,In Hippocratis Epidemiarum I,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0057.tlg092.1st1K-grc1,"book,chapter",Galen,In Hippocratis Aphorismos,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0057.tlg093.1st1K-grc1,chapter,Galen,Adversus Lycum,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0057.tlg094.1st1K-grc1,chapter,Galen,Adversus ea quae Juliano in Hippocratis Aphorismos enuntiata sunt,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0057.tlg095.1st1K-grc1,"book,chapter",Galen,In Hippocratis De articulis,NA,NA,TRUE,grc
+urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1,chapter,Galen,De Humero iis Modis Prolapso quos Hippocrates non Vidit,NA,NA,TRUE,grc
+urn:cts:greekLit:tlg0057.tlg099.1st1K-grc1,"book,chapter",Galen,In Hippocratis Prognosticum,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0057.tlg100.1st1K-grc1,"book,chapter",Galen,In Hippocratis De fracturis,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0057.tlg101.1st1K-grc1,"book,chapter",Galen,In Hippocratis De officina medici,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0057.tlg102.1st1K-grc1,chapter,Galen,De musculorum dissectione ad tirones,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0057.tlg103.1st1K-grc1,chapter,Galen,De consuetudinibus,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0057.tlg107.1st1K-grc1,work,Galen,De experientia medica,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0057.tlg114.1st1K-grc1,work,Galen,De causis respirationis,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0059.tlg037.First1K-grc1,work,Plato,Definitiones,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0062.tlg001.1st1K-grc1,"book,section",Lucian of Samosata,Phalaris,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0062.tlg002.1st1K-grc1,section,Lucian of Samosata,"Hippias, or the Bath",NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0062.tlg003.1st1K-grc1,section,Lucian of Samosata,Bacchus,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0062.tlg004.1st1K-grc1,section,Lucian of Samosata,Hercules,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0062.tlg005.1st1K-grc1,section,Lucian of Samosata,"Electrum,Amber, or the Swans",NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0062.tlg006.1st1K-grc1,section,Lucian of Samosata,"Muscae Encomium,The Fly",NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0062.tlg007.1st1K-grc1,section,Lucian of Samosata,Nigrinus,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0062.tlg008.1st1K-grc1,section,Lucian of Samosata,Demonax,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0062.tlg009.1st1K-grc1,section,Lucian of Samosata,"De Domo,The Hall",NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0062.tlg010.1st1K-grc1,section,Lucian of Samosata,"Patriae encomium,My Native Land",NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0062.tlg011.1st1K-grc1,section,Lucian of Samosata,"Macrobii,Octogenarians",NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0062.tlg012.1st1K-grc1,"book,section",Lucian of Samosata,"Verae historiae,A True Story",NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0062.tlg013.1st1K-grc1,section,Lucian of Samosata,"Calumniae non temere credendum,Slander",NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0062.tlg014.1st1K-grc1,section,Lucian of Samosata,"Lis consonantium (= Judicium vocalium),The Consonants at Law",NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0062.tlg015.1st1K-grc1,section,Lucian of Samosata,"Symposium,The Carousal, or The Lapiths",NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0062.tlg016.1st1K-grc1,section,Lucianus Samosatenus,Cataplus,NA,NA,TRUE,grc
+urn:cts:greekLit:tlg0062.tlg017.1st1K-grc1,section,Lucianus Samosatenus,Juppiter confutatus,NA,NA,TRUE,grc
+urn:cts:greekLit:tlg0062.tlg018.1st1K-grc1,section,Lucianus Samosatenus,Juppiter tragoedus,NA,NA,TRUE,grc
+urn:cts:greekLit:tlg0062.tlg019.1st1K-grc1,section,Lucianus Samosatenus,Gallus,NA,NA,TRUE,grc
+urn:cts:greekLit:tlg0062.tlg020.1st1K-grc1,section,Lucianus Samosatenus,Prometheus,NA,NA,TRUE,grc
+urn:cts:greekLit:tlg0062.tlg021.1st1K-grc1,section,Lucianus Samosatenus,Icaromenippus,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0062.tlg022.1st1K-grc1,section,Lucianus Samosatenus,Timon,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0062.tlg023.1st1K-grc1,section,Lucianus Samosatenus,Charon sive contemplantes,NA,NA,TRUE,grc
+urn:cts:greekLit:tlg0062.tlg024.1st1K-grc1,section,Lucianus Samosatenus,Vitarum auctio,NA,NA,TRUE,grc
+urn:cts:greekLit:tlg0062.tlg025.1st1K-grc1,section,Lucianus Samosatenus,Revivescentes sive piscator,NA,NA,TRUE,grc
+urn:cts:greekLit:tlg0062.tlg026.1st1K-grc1,section,Lucianus Samosatenus,Bis accusatus sive tribunalia,NA,NA,TRUE,grc
+urn:cts:greekLit:tlg0062.tlg027.1st1K-grc1,section,Lucianus Samosatenus,De sacrificiis,NA,NA,TRUE,grc
+urn:cts:greekLit:tlg0062.tlg028.1st1K-grc1,section,Lucianus Samosatenus,Adversus indoctum et libros multos ementem,NA,NA,TRUE,grc
+urn:cts:greekLit:tlg0062.tlg029.1st1K-grc1,section,Lucianus Samosatenus,Somnium sive vita Luciani,NA,NA,TRUE,grc
+urn:cts:greekLit:tlg0062.tlg030.1st1K-grc1,section,Lucianus Samosatenus,De parasito sive artem esse parasiticam,NA,NA,TRUE,grc
+urn:cts:greekLit:tlg0062.tlg031.1st1K-grc1,section,Lucianus Samosatenus,Philopseudes sive incredulus,NA,NA,TRUE,grc
+urn:cts:greekLit:tlg0062.tlg032.1st1K-grc1,section,Lucianus Samosatenus,Dearum judicium,NA,NA,TRUE,grc
+urn:cts:greekLit:tlg0062.tlg033.1st1K-grc1,section,Lucianus Samosatenus,De mercede conductis potentium familiaribus,NA,NA,TRUE,grc
+urn:cts:greekLit:tlg0062.tlg034.1st1K-grc1,section,Lucian of Samosata,Anacharsis,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0062.tlg035.1st1K-grc1,section,Lucian of Samosata,"Menippus sive necyomantia,Menippus, or the Descent into Hades",NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0062.tlg036.1st1K-grc1,section,Lucian of Samosata,"De luctu,On Funerals",NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0062.tlg037.1st1K-grc1,section,Lucian of Samosata,"Rhetorum praeceptor,A Professor of Public Speaking",NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0062.tlg038.1st1K-grc1,section,Lucian of Samosata,"Alexander,Alexander the False Prophet",NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0062.tlg039.1st1K-grc1,section,Lucian of Samosata,"Imagines,Essays in Portraiture",NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0062.tlg040.1st1K-grc1,section,Lucian of Samosata,"Pro imaginibus,Essays in Portraiture Defended",NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0062.tlg041.1st1K-grc1,section,Lucian of Samosata,"De Syria dea,The Goddesse of Surrye",NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0062.tlg042.1st1K-grc1,section,Lucianus Samosatenus,De morte Peregrini,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0062.tlg043.1st1K-grc1,section,Lucianus Samosatenus,Fugitivi,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0062.tlg044.1st1K-grc1,section,Lucianus Samosatenus,Toxaris vel amicitia,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0062.tlg045.1st1K-grc1,section,Lucianus Samosatenus,De saltatione,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0062.tlg046.1st1K-grc1,section,Lucianus Samosatenus,Lexiphanes,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0062.tlg047.1st1K-grc1,section,Lucianus Samosatenus,Eunuchus,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0062.tlg048.1st1K-grc1,section,Lucianus Samosatenus,De astrologia,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0062.tlg049.1st1K-grc1,section,Lucianus Samosatenus,Pseudologista,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0062.tlg050.1st1K-grc1,section,Lucianus Samosatenus,Deorum concilium,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0062.tlg051.1st1K-grc1,section,Lucianus Samosatenus,Tyrannicida,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0062.tlg052.1st1K-grc1,section,Lucianus Samosatenus,Abdicatus,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0064.tlg001.1st1K-grc1,paragraph,Hanno,Periplus Hannonis,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0065.tlg001.1st1K-grc1,"chapter,section",Scylax,Periplus Scylacis,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0066.tlg001.1st1K-grc1,"fragment,paragraph",Ps. Dicaearchus,"Dicaearchi, ut fertur, potius vero Athenaei Descriptionis                     Graeciae Fragmenta tria",NA,NA,TRUE,"grc,lat,deu"
+urn:cts:greekLit:tlg0067.tlg001.1st1K-grc1,"book,paragraph,cited quotation",Agatharchides,Ex Agatharchidis De Maris Erythraeo Libri Excerpta,NA,NA,TRUE,"grc,lat,deu"
+urn:cts:greekLit:tlg0068.tlg001.1st1K-grc1,"section,line",Pseudo-Scymnus,"Scymni Chii, ut fertur, Periegesis",NA,NA,TRUE,"grc,lat,deu"
+urn:cts:greekLit:tlg0069.tlg001.1st1K-grc1,"section,line",Dionysius Calliphontis,Dionysii Calliphontis filii Descriptio Graeciae,NA,NA,TRUE,"grc,lat,deu"
+urn:cts:greekLit:tlg0070.tlg001.1st1K-grc1,"section,paragraph",Isidorus Characenus,Isidori Characeni Mansiones Parthicae,NA,NA,TRUE,"grc,lat,deu"
+urn:cts:greekLit:tlg0071.tlg001.1st1K-grc1,paragraph,Pseudo Arrianus,"Anonymi (Arriani, ut fertur) periplus maris Erythraei",NA,NA,TRUE,"grc,lat,deu"
+urn:cts:greekLit:tlg0075.tlg001.1st1K-grc1,"section,paragraph",Pseudo-Arrianus,"Anonymi (Arriani, ut fertur) periplus ponti Euxini",NA,NA,TRUE,"grc,lat,deu"
+urn:cts:greekLit:tlg0077.tlg001.1st1K-grc1,"section,paragraph",Anonymous,Stadiasmus Magni Maris,NA,NA,TRUE,"grc,lat,deu"
+urn:cts:greekLit:tlg0081.tlg006.1st1K-grc1,chapter,Dionysius Halicarnassensis,De Demosthenis dictione,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0081.tlg007.1st1K-grc1,chapter,Dionysius Halicarnassensis,Libri secundi de antiquis oratoribus reliquiae,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0082.tlg001.1st1K-grc1,paragraph,"Apollonius, Dyscolus",De pronominibus,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0082.tlg002.1st1K-grc1,paragraph,"Apollonius, Dyscolus",De adverbiis,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0082.tlg004.1st1K-grc1,"book,section","Apollonius, Dyscolus",De constructione,NA,NA,TRUE,grc
+urn:cts:greekLit:tlg0083.tlg003.1st1K-grc1,fragment,Dionysius of Byzantium,De Bospori Navigatione,NA,NA,TRUE,"grc,lat,deu"
+urn:cts:greekLit:tlg0084.tlg001.1st1K-grc1,line,Dionysius Periegetes,Orbis Descriptio,NA,NA,TRUE,"grc,lat,deu"
+urn:cts:greekLit:tlg0085.tlg001.opp-grc3,line,Aeschylus,Suppliant Women,NA,NA,TRUE,grc
+urn:cts:greekLit:tlg0085.tlg002.opp-grc3,line,Aeschylus,Persians,NA,NA,TRUE,grc
+urn:cts:greekLit:tlg0085.tlg003.opp-grc3,line,Aeschylus,Prometheus Bound,NA,NA,TRUE,grc
+urn:cts:greekLit:tlg0085.tlg004.opp-grc3,line,Aeschylus,Seven Against Thebes,NA,NA,TRUE,grc
+urn:cts:greekLit:tlg0085.tlg005.opp-grc3,line,Aeschylus,Agamemnon,NA,NA,TRUE,grc
+urn:cts:greekLit:tlg0085.tlg006.opp-grc3,line,Aeschylus,Libation Bearers,NA,NA,TRUE,grc
+urn:cts:greekLit:tlg0085.tlg007.opp-grc3,line,Aeschylus,Eumenides,NA,NA,TRUE,grc
+urn:cts:greekLit:tlg0086.tlg001.1st1K-grc1,"book,part,chapter",Aristotle,Analytica priora,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0086.tlg001.1st1K-grc2,"book,part,chapter",Aristotle,Aristotelis Analytica Priora et Posteriora,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0086.tlg002.1st1K-grc1,"book,chapter",Aristotle,De anima,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0086.tlg002.1st1K-grc2,"book,chapter",Aristotle,De anima,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0086.tlg003.1st1K-grc1,paragraph,Aristotle,Res Publica Atheniensium,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2,section,Aristotle,Fragmenta Deperditae Partis Primae,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0086.tlg003.1st1K-lat1,paragraph,Georgius Wentzei,Prefatio to Res Publica Atheniensium,NA,NA,TRUE,lat
+urn:cts:greekLit:tlg0086.tlg003.1st1K-lat2,section,NA,Corrigenda to Res Publica Atheniensium,NA,NA,TRUE,lat
+urn:cts:greekLit:tlg0086.tlg003.1st1K-lat3,section,NA,Addenda to Res Publica Atheniensium,NA,NA,TRUE,lat
+urn:cts:greekLit:tlg0086.tlg003.1st1K-lat4,section,NA,Signorum Explicatio to Res Publica Atheniensium,NA,NA,TRUE,lat
+urn:cts:greekLit:tlg0086.tlg003.1st1K-mul1,entry,NA,Index Verborum to Res Publica Atheniensium,NA,NA,TRUE,lat
+urn:cts:greekLit:tlg0086.tlg003.1st1K-mul2,entry,NA,"Index Nominum to Aristotle, Res Publica Atheniensium",NA,NA,TRUE,lat
+urn:cts:greekLit:tlg0086.tlg005.1st1K-grc1,"book,chapter",Aristotle,De caelo,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0086.tlg006.1st1K-grc1,chapter,Aristotle,Categoriae,NA,NA,TRUE,grc
+urn:cts:greekLit:tlg0086.tlg008.1st1K-grc1,chapter,Aristotle,De divinatione per somnum,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0086.tlg013.1st1K-grc1,"book,chapter",Aristotle,De generatione et corruptione,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0086.tlg013.1st1K-grc2,"book,chapter",Aristotle,De generatione et corruptione,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0086.tlg014.1st1K-grc1,"book,chapter",Aristotle,Historia animalium,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0086.tlg015.1st1K-grc1,chapter,Aristoteles,De animalium motione,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0086.tlg016.1st1K-grc1,chapter,Aristotle,De insomniis,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0086.tlg017.1st1K-grc1,chapter,Aristotle,De interpretatione,NA,NA,TRUE,grc
+urn:cts:greekLit:tlg0086.tlg018.1st1K-grc1,chapter,Aristotle,"De iuventute et senectute, De vita et morte",NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0086.tlg020.1st1K-grc1,chapter,Aristotle,De longitudine et brevitate vitae,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0086.tlg021.1st1K-grc1,chapter,Aristoteles,De animalium incessu,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0086.tlg022.1st1K-grc1,"book,chapter,section",Aristotle,Magna Moralia,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0086.tlg024.1st1K-grc1,chapter,Aristotle,De memoria et reminiscentia,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0086.tlg026.1st1K-grc1,"book,chapter",Aristotle,Meteorologica,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0086.tlg026.1st1K-grc2,"book,chapter",Aristotle,Meteorologica,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0086.tlg030.1st1K-grc1,"book,chapter,section",Aristotle,De partibus animalium,NA,NA,TRUE,grc
+urn:cts:greekLit:tlg0086.tlg031.1st1K-grc1,"book,chapter",Aristotle,Physica,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0086.tlg034.1st1K-grc1,chapter,Aristotle,Ars Poetica,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0086.tlg037.1st1K-grc1,chapter,Aristotle,De respiratione,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0086.tlg040.1st1K-grc1,chapter,Aristotle,De sophisticis elenchis,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0086.tlg041.1st1K-grc1,"chapter,section",Aristotle,De sensu et sensibilibus,NA,NA,TRUE,"lat,grc"
+urn:cts:greekLit:tlg0086.tlg042.1st1K-grc1,chapter,Aristotle,De somno et vigilia,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0086.tlg043.1st1K-grc1,chapter,Aristoteles,De spiritu,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0086.tlg044.1st1K-grc1,"book,chapter",Aristotle,Topica,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0086.tlg052.1st1K-grc1,chapter,Aristotle,De anima (codicis E fragmenta recensionis a vulgata diversae),NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0086.tlg054.1st1K-grc1,section,Aristotle,Physica (textus alter),NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0087.tlg004.1st1K-grc1,paragraph,Herodianus,Περὶ διχρόνων,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0087.tlg005.1st1K-grc1,book,Herodianus,Περὶ πνευμάτων,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0087.tlg006.1st1K-grc1,book,Herodianus,Περὶ Ἀττικῆς προσῳδίας,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0087.tlg007.1st1K-grc1,"book,paragraph",Herodianus,Περὶ Ἰλιακῆς προσῳδίας,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0087.tlg008.1st1K-grc1,"book,paragraph",Herodianus,Περὶ Ὀδυσσειακῆς προσῳδίας,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0087.tlg009.1st1K-grc1,paragraph,Herodianus,Περὶ παθῶν,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0087.tlg009a.1st1K-grc1,paragraph,Herodianus,Ἐκ τῶν Ἡρωδιανοῦ ὑπομνημάτων τῶν περὶ παθῶν Διδύμου,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0087.tlg010.1st1K-grc1,section,Herodianus,Περὶ συντάξεως τῶν στοιχείων,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0087.tlg011.1st1K-grc1,"book,chapter,section,paragraph",Herodianus,Περὶ ὀρθογραφίας,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0087.tlg012.1st1K-grc1,section,Herodianus,Περὶ ὀνομάτων,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0087.tlg013.1st1K-grc1,"chapter,section",Herodianus,Περὶ κλίσεως ὀνομάτων,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0087.tlg014.1st1K-grc1,book,Herodianus,Εἰς τὸ περὶ γενῶν Ἀπολλωνίου ὑπόμνημα,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0087.tlg015.1st1K-grc1,section,Herodianus,Μονόβιβλον περὶ τοῦ ὕδωρ,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0087.tlg016.1st1K-grc1,section,Herodianus,Περὶ τοῦ ζώς,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0087.tlg017.1st1K-grc1,section,Herodianus,Περὶ συζυγιῶν,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0087.tlg018.1st1K-grc1,section,Herodianus,Μονόβιβλον περὶ τοῦ μὴ πάντα τὰ ῥήματα κλίνεσθαι εἰς πάντας τοὺς χρόνους,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0087.tlg019.1st1K-grc1,section,Herodianus,Περὶ μετοχῶν,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0087.tlg020.1st1K-grc1,section,Herodianus,Μονόβιβλον περὶ τοῦ ἦν,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0087.tlg021.1st1K-grc1,"section,paragraph",Herodianus,Περὶ ῥημάτων,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0087.tlg022.1st1K-grc1,"section,paragraph",Herodianus,Περὶ τῶν εἰς μι,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0087.tlg023.1st1K-grc1,section,Herodianus,Περὶ ἀντωνυμιῶν,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0087.tlg024.1st1K-grc1,section,Herodianus,Περὶ ἐπιρρημάτων,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0087.tlg025.1st1K-grc1,section,Herodianus,Περὶ σχημάτων,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0087.tlg026.1st1K-grc1,"chapter,section",Herodianus,Περὶ παρωνύμων,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0087.tlg027.1st1K-grc1,section,Herodianus,Περὶ ῥηματικῶν ὀνομάτων,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0087.tlg028.1st1K-grc1,section,Herodianus,Περὶ μονοσυλλάβων,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0087.tlg029.1st1K-grc1,section,Herodianus,Περὶ γάμου καὶ συμβιώσεως,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0087.tlg030.1st1K-grc1,section,Herodianus,Συμπόσιον,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0087.tlg031.1st1K-grc1,section,Herodianus,Προτάσεις,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0087.tlg032.1st1K-grc1,book,Herodianus,Εἰς τὴν Ἀπολλωνίου εἰσαγωγήν,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0087.tlg033.1st1K-grc1,"book,paragraph",Herodianus,Περὶ μονήρους λέξεως,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0088.tlg001.1st1K-grc1,"book,section",Aristoxenus,Elementa Harmonica,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0090.tlg001.opp-eng1,"chapter,section",Agathemerus,Geographiae Informatio,NA,NA,TRUE,"eng,grc,lat"
+urn:cts:greekLit:tlg0090.tlg001.opp-grc10,"chapter,section",Agathemerus,Geographiae Informatio,NA,NA,TRUE,"lat,grc,deu"
+urn:cts:greekLit:tlg0090.tlg001.opp-grc3,"chapter,section",Agathemerus,Geographiae Informatio,NA,NA,TRUE,"lat,grc,eng"
+urn:cts:greekLit:tlg0090.tlg001.opp-grc6,"chapter,section",Agathemerus,Geographiae Informatio,NA,NA,TRUE,"eng,grc,lat"
+urn:cts:greekLit:tlg0090.tlg001.opp-grc7,"chapter,section",Agathemerus,Geographiae Informatio,NA,NA,TRUE,"grc,lat,deu"
+urn:cts:greekLit:tlg0090.tlg001.opp-grc9,"chapter,section",Agathemerus,Geographiae Informatio,NA,NA,TRUE,"lat,grc,dut"
+urn:cts:greekLit:tlg0090.tlg001.opp-lat10,"chapter,section",Agathemerus,Geographiae Informatio,NA,NA,TRUE,"lat,grc,eng"
+urn:cts:greekLit:tlg0090.tlg001.opp-lat4,"chapter,section",Agathemerus,Geographiae Informatio,NA,NA,TRUE,"lat,grc,dut"
+urn:cts:greekLit:tlg0090.tlg001.opp-lat9,"chapter,section",Agathemerus,Geographiae Informatio,NA,NA,TRUE,"lat,grc,deu"
+urn:cts:greekLit:tlg0092.tlg001.1st1K-grc1,"chapter,section",Anonymous,Geographiae expositio compendiaria,NA,NA,TRUE,"grc,lat,deu"
+urn:cts:greekLit:tlg0093.ogl001.1st1K-grc1,"chapter,section",Theophrastus,Concerning Odours,NA,NA,TRUE,grc
+urn:cts:greekLit:tlg0093.ogl002.1st1K-grc1,"chapter,section",Theophrastus,Enquiry into Plants,NA,NA,TRUE,grc
+urn:cts:greekLit:tlg0093.tlg001.1st1K-grc1,"book,chapter,section",Theophrastus,"Enquiry into Plants,Historia plantarum",NA,NA,TRUE,"grc,eng,lat"
+urn:cts:greekLit:tlg0093.tlg003.1st1K-grc1,"fragment,chapter",Theophrastus,De sensu et sensibilibus,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0093.tlg004.1st1K-grc1,"fragment,chapter",Theophrastus,De lapidibus,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0094.tlg001.1st1K-grc1,"chapter,section",Pseudo-Plutarch,De Fluviis,NA,NA,TRUE,"grc,lat,deu"
+urn:cts:greekLit:tlg0096.tlg002.First1K-grc1,fabula,Aesop,Fabulae,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0099.tlg001.1st1K-grc1,"book,section",Strabo,"Strabonis Geographiae Chrestomathia,             Geographia. Selections Chrestomathia",NA,NA,TRUE,"grc,lat,deu"
+urn:cts:greekLit:tlg0317.tlg001.1st1K-grc1,chapter,Acta Joannis,Acta Joannis,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0317.tlg002.1st1K-grc1,chapter,Acta Joannis,Acta Joannis (recenscio),NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0357.tlg001.1st1K-grc1,chapter,Didymus Alexandrinus,Mensurae marmorum ac lignorum,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0357.tlg001.1st1K-grc2,chapter,Didymus Alexandrinus,Mensuris marmorum,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0358.tlg001.1st1K-grc1,"book,section",Nichomachus of Gerasa,Introductio arithmetica,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0358.tlg002.opp-grc1,section,Nichomachus Gerasenus,Harmonicum enchiridion,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0358.tlg004.opp-grc1,fragment,Nichomachus Gerasenus,Excerpta,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0358.tlg005.1st1K-grc1,section,Nicomachus Gerasenus,Problemata arithmetica,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0361.tlg001.opp-grc1,section,Cleonides,Introductio Harmonica,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0362.tlg001.opp-grc1,section,Carmina Delphis Inventa,Carmina Delphis Inventa,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0363.tlg001.1st1K-grc1,"book,section",Claudius Ptolemaeus,Syntaxis mathematica,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0363.tlg007.opp-grc2,"book,chapter,section",Claudius Ptolemaeus,Apotelesmatica (= Tetrabiblos),NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0363.tlg011.opp-grc1,paragraph,Claudius Ptolemaeus,Musica,NA,NA,TRUE,"grc,lat,deu"
+urn:cts:greekLit:tlg0527.tlg001.opp-grc2,"chapter,verse",Septuaginta,Genesis,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0527.tlg002.opp-grc2,"chapter,verse",Septuaginta,Exodus,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0527.tlg003.opp-grc2,"chapter,verse",Septuaginta,Leviticus,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0527.tlg004.opp-grc2,"chapter,verse",Septuaginta,Numeri,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0527.tlg005.opp-grc2,"chapter,verse",Septuaginta,Deuteronomium,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0527.tlg006.opp-grc2,"chapter,verse",Septuaginta,Josue (Cod. Vaticanus + Cod. Alexandrinus),NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0527.tlg008.opp-grc2,"chapter,verse",Septuaginta,Judices (Cod. Alexandrinus),NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0527.tlg010.opp-grc2,"chapter,verse",Septuaginta,Ruth,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0527.tlg011.opp-grc2,"chapter,verse",Septuaginta,Regnorum I (Samuelis I in textu Masoretico),NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0527.tlg012.opp-grc2,"chapter,verse",Septuaginta,Regnorum II (Samuelis II In Textu Masoretico),NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0527.tlg013.opp-grc2,"chapter,verse",Septuaginta,Regnorum III (Regum I in textu Masoretico),NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0527.tlg014.opp-grc2,"chapter,verse",Septuaginta,Regnorum IV (Regum II in textu Masoretico),NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0527.tlg015.1st1K-grc1,"chapter,verse",Septuaginta,Paralipomenon I sive Chronicon I,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0527.tlg016.1st1K-grc1,"chapter,verse",Septuaginta,Paralipomenon II sive Chronicon II,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0527.tlg017.1st1K-grc1,"chapter,verse",Septuaginta,Esdras A,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0527.tlg018.1st1K-grc1,"chapter,verse",Septuaginta,Esdras B,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0527.tlg019.1st1K-grc1,"chapter,verse",Septuaginta,Esther,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0527.tlg020.1st1K-grc1,"chapter,verse",Septuaginta,Judith,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0527.tlg021.1st1K-grc1,"chapter,verse",Septuaginta,Tobias,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0527.tlg023.1st1K-grc1,"chapter,verse",Septuaginta,Machabaeorum i,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0527.tlg024.1st1K-grc1,"chapter,verse",Septuaginta,Machabaeorum ii,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0527.tlg025.1st1K-grc1,"chapter,verse",Septuaginta,Machabaeorum iii,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0527.tlg026.1st1K-grc1,"chapter,verse",Septuaginta,Machabaeorum iv,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0527.tlg027.1st1K-grc1,"chapter,verse",Septuaginta,Psalmi,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0527.tlg028.1st1K-grc1,"chapter,verse",Septuaginta,Odae,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0527.tlg029.1st1K-grc1,"chapter,verse",Septuaginta,Proverbia,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0527.tlg031.1st1K-grc1,"chapter,verse",Septuaginta,Canticum,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0527.tlg032.1st1K-grc1,"chapter,verse",Septuaginta,Job,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0527.tlg033.1st1K-grc1,"chapter,verse",Septuaginta,Sapientia Salomonis,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0527.tlg034.1st1K-grc1,"chapter,verse",NA,Ecclesiasticus,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0527.tlg034.opp-grc2,"chapter,verse",Septuaginta,Ecclesiasticus,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0527.tlg035.1st1K-grc1,"chapter,verse",Septuaginta,Psalmi Salomonis,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0527.tlg036.1st1K-grc1,"chapter,verse",Septuaginta,Osee,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0527.tlg037.1st1K-grc1,"chapter,verse",Septuaginta,Amos,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0527.tlg038.1st1K-grc1,"chapter,verse",Septuaginta,Michaeas,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0527.tlg039.1st1K-grc1,"chapter,verse",Septuaginta,Joel,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0527.tlg040.1st1K-grc1,"chapter,verse",Septuaginta,Abdias,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0527.tlg041.1st1K-grc1,"chapter,verse",Septuaginta,Jonas,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0527.tlg042.1st1K-grc1,"chapter,verse",Septuaginta,Nahum,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0527.tlg043.1st1K-grc1,"chapter,verse",Septuaginta,Habacuc,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0527.tlg044.1st1K-grc1,"chapter,verse",Septuaginta,Sophonias,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0527.tlg045.1st1K-grc1,"chapter,verse",Septuaginta,Aggaeus,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0527.tlg046.1st1K-grc1,"chapter,verse",Septuaginta,Zacharias,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0527.tlg047.1st1K-grc1,"chapter,verse",Septuaginta,Malachias,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0527.tlg048.1st1K-eng1,entry,NA,Notes on Isaias,NA,NA,TRUE,lat
+urn:cts:greekLit:tlg0527.tlg048.1st1K-eng2,entry,NA,Appendix to Isaias,NA,NA,TRUE,lat
+urn:cts:greekLit:tlg0527.tlg048.1st1K-eng3,entry,NA,Index II to Isaias,NA,NA,TRUE,lat
+urn:cts:greekLit:tlg0527.tlg048.1st1K-grc1,"chapter,verse",Septuaginta,Isaias,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0527.tlg048.1st1K-mul1,entry,NA,Index I to Isaias,NA,NA,TRUE,lat
+urn:cts:greekLit:tlg0527.tlg048.opp-eng2,"chapter,verse",NA,Isaias,NA,NA,TRUE,lat
+urn:cts:greekLit:tlg0527.tlg048.opp-grc2,"chapter,verse",NA,Isaias,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0527.tlg049.1st1K-grc1,"chapter,verse",Septuaginta,Jeremias,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0527.tlg050.1st1K-grc1,"chapter,verse",Septuaginta,Baruch,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0527.tlg051.1st1K-grc1,"chapter,verse",Septuaginta,Threni seu Lamentationes,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0527.tlg052.1st1K-grc1,verse,Septuaginta,Epistula Jeremiae,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0527.tlg053.1st1K-grc1,"chapter,verse",Septuaginta,Ezechiel,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0527.tlg054.1st1K-grc1,"chapter,verse",Septuaginta,Susanna (translatio Graeca),NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0527.tlg055.1st1K-grc1,"chapter,verse",Septuaginta,Susanna (Theodotionis versio),NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0527.tlg056.1st1K-grc1,"chapter,verse",Septuaginta,Daniel (translatio Graeca),NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0527.tlg057.1st1K-grc1,"chapter,verse",Septuaginta,Daniel (Theodotionis versio),NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0527.tlg058.1st1K-grc1,"chapter,verse",Septuaginta,Bel et Draco (translatio Graeca),NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0527.tlg059.1st1K-grc1,"chapter,verse",Septuaginta,Bel et Draco (Theodotionis versio),NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0530.tlg005.1st1K-grc1,chapter,pseudo-Galen,De fasciis,NA,NA,TRUE,grc
+urn:cts:greekLit:tlg0530.tlg006.1st1K-grc1,chapter,pseudo-Galen,Ad Gaurum quomodo animetur fetus,NA,NA,TRUE,grc
+urn:cts:greekLit:tlg0530.tlg012.1st1K-grc1,chapter,pseudo-Galen,Introductio seu medicus,NA,NA,TRUE,grc
+urn:cts:greekLit:tlg0530.tlg029.1st1K-grc1,"book,chapter",pseudo-Galen,De remediis parabilibus,NA,NA,TRUE,grc
+urn:cts:greekLit:tlg0530.tlg032.1st1K-grc1,work,pseudo-Galen,De theriaca ad Pamphilianum,NA,NA,TRUE,grc
+urn:cts:greekLit:tlg0530.tlg043.1st1K-grc1,chapter,pseudo-Galen,De optima secta ad Thrasybulum,NA,NA,TRUE,grc
+urn:cts:greekLit:tlg0541.tlg042.1st1K-grc1,"chapter,sentence",pseudo-Menander,Sententiae (corresponds to version Men Ar I) (Greek),NA,NA,TRUE,grc
+urn:cts:greekLit:tlg0541.tlg042.1st1K-grc2,sentence,pseudo-Menander,Sententiae (corresponds to version Men ar II) (Greek),NA,NA,TRUE,grc
+urn:cts:greekLit:tlg0541.tlg042.1st1K-grc3,sentence,pseudo-Menander,"Sententiae (corresponds to quotes from Gregory Nazianzen, Carmen morale XXX)                     (Greek)",NA,NA,TRUE,grc
+urn:cts:greekLit:tlg0542.tlg001.1st1K-grc1,"book,section",Julius Pollux,Onomasticon,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0544.tlg001.opp-grc1,"book,section",Sextus Empiricus,Pyrrhoniae hypotyposes,NA,NA,TRUE,grc
+urn:cts:greekLit:tlg0544.tlg001.opp-lat1,"book,section",Sextus Empiricus,Pyrrhoniae hypotyposes,NA,NA,TRUE,lat
+urn:cts:greekLit:tlg0544.tlg002.opp-grc1,"book,section",Sextus Empiricus,Adversus mathematicos,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0552.tlg001.1st1K-grc1,"book,chapter",Archimède,De sphaera et cylindro,NA,NA,TRUE,"grc,lat,fre"
+urn:cts:greekLit:tlg0552.tlg002.1st1K-grc1,chapter,Archimède,Dimensio circuli,NA,NA,TRUE,"grc,lat,fre"
+urn:cts:greekLit:tlg0552.tlg003.1st1K-grc1,chapter,Archimède,De conoidibus et sphaeroidibus,NA,NA,TRUE,"grc,lat,fre"
+urn:cts:greekLit:tlg0552.tlg004.1st1K-grc1,chapter,Archimède,De lineis spiralibus,NA,NA,TRUE,"grc,lat,fre"
+urn:cts:greekLit:tlg0552.tlg005.1st1K-grc1,"book,chapter",Archimède,De planorum aequilibriis,NA,NA,TRUE,"grc,lat,fre"
+urn:cts:greekLit:tlg0552.tlg006.1st1K-grc1,chapter,Archimède,Arenarius,NA,NA,TRUE,"grc,lat,fre"
+urn:cts:greekLit:tlg0552.tlg007.1st1K-grc1,chapter,Archimède,Quadratura parabolae,NA,NA,TRUE,"grc,lat,fre"
+urn:cts:greekLit:tlg0552.tlg008.1st1K-grc1,"book,chapter",Archimède,De corporibus fluitantibus,NA,NA,TRUE,"grc,lat,fre"
+urn:cts:greekLit:tlg0552.tlg009.1st1K-grc1,chapter,Archimède,Stomachion,NA,NA,TRUE,"grc,lat,fre"
+urn:cts:greekLit:tlg0552.tlg010.1st1K-grc1,chapter,Archimède,Ad Eratosthenem methodus,NA,NA,TRUE,"grc,lat,fre"
+urn:cts:greekLit:tlg0552.tlg011.1st1K-grc1,chapter,Archimède,Liber assumptorum,NA,NA,TRUE,"grc,lat,fre"
+urn:cts:greekLit:tlg0552.tlg011.1st1K-lat1,chapter,Archimède,Liber assumptorum,NA,NA,TRUE,"lat,fre"
+urn:cts:greekLit:tlg0552.tlg012.1st1K-grc1,chapter,Archimède,Problema bovinum,NA,NA,TRUE,"grc,lat,fre"
+urn:cts:greekLit:tlg0552.tlg013.1st1K-grc1,"chapter,section",Archimedes,Fragmenta,NA,NA,TRUE,"grc,lat,lat"
+urn:cts:greekLit:tlg0553.tlg001.1st1K-grc1,"book,section",Artemidorus,Onirocriticon,NA,NA,TRUE,"grc,lat,deu,fre"
+urn:cts:greekLit:tlg0555.tlg001.opp-grc1,chapter,Clement of Alexandria,Protrepticus,NA,NA,TRUE,"lat,grc"
+urn:cts:greekLit:tlg0555.tlg002.opp-grc1,"book,chapter",Clement of Alexandria,Paedagogus,NA,NA,TRUE,grc
+urn:cts:greekLit:tlg0555.tlg004b.opp-grc1,"book,chapter",Clement of Alexandria,Stromata,NA,NA,TRUE,grc
+urn:cts:greekLit:tlg0555.tlg005.opp-grc1,chapter,Clement of Alexandria,Eclogae propheticae,NA,NA,TRUE,grc
+urn:cts:greekLit:tlg0555.tlg006.opp-grc1,chapter,Clement of Alexandria,Quis dives salvetur,NA,NA,TRUE,grc
+urn:cts:greekLit:tlg0555.tlg007.opp-grc1,chapter,Clement of Alexandria,Excerpta ex Theodoto,NA,NA,TRUE,grc
+urn:cts:greekLit:tlg0559.tlg001.1st1K-grc1,"book,chapter",Hero of Alexandria,Pneumatica,NA,NA,TRUE,"grc,lat,deu"
+urn:cts:greekLit:tlg0559.tlg002.1st1K-grc1,"book,chapter",Hero of Alexandria,De automatis,NA,NA,TRUE,"grc,lat,deu"
+urn:cts:greekLit:tlg0559.tlg004.1st1K-grc1,"book,chapter",Hero of Alexandria,Mechanicorum fragmenta,NA,NA,TRUE,"grc,lat,deu"
+urn:cts:greekLit:tlg0559.tlg005.1st1K-grc1,chapter,Hero of Alexandria,Catoptrica,NA,NA,TRUE,"grc,lat,deu"
+urn:cts:greekLit:tlg0559.tlg006.1st1K-grc1,"book,chapter",Hero of Alexandria,Metrica,NA,NA,TRUE,"grc,lat,deu"
+urn:cts:greekLit:tlg0559.tlg007.1st1K-grc1,chapter,Hero of Alexandria,Dioptra,NA,NA,TRUE,"grc,lat,deu"
+urn:cts:greekLit:tlg0559.tlg010.1st1K-grc1,"book,chapter,section",Hero of Alexandria,Stereometrica,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1,"chapter,section",Hero of Alexandria,De mensuris,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0559.tlg012.1st1K-grc1,section,Hero of Alexandria,Belopoeica,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1,"chapter,section",Hero of Alexandria,Fragmenta Heroniana,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1,"chapter,section",Hero of Alexandria,Geodaesia [Sp.],NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1,chapter,Heronis Alexandrini,Liber geeponicus [Sp.],NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0563.tlg001.1st1K-grc1,"book,section,subsection",Maximus of Tyre,Dialexeis,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0565.tlg001.1st1K-grc1,"book,chapter",Soranus,Gynaeciorum Libri IV,NA,NA,TRUE,grc
+urn:cts:greekLit:tlg0565.tlg002.1st1K-grc1,paragraph,Soranus,De signis Fracturarum,NA,NA,TRUE,grc
+urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1,section,Soranus,De Fasciis,NA,NA,TRUE,grc
+urn:cts:greekLit:tlg0565.tlg004.1st1K-grc1,section,Soranus,Vita Hippocratis Secundum Soranum,NA,NA,TRUE,grc
+urn:cts:greekLit:tlg0591.1st1K001.1st1K-grc1,section,Antisthenes,"Ajax,Αιας",NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0591.1st1K002.1st1K-grc1,section,Antisthenes,"Odysseus,ΟΔΥΣΣΕΥΣ",NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0592.tlg001.1st1K-grc1,section,Hermogenes,Progymnasmata [Dub.],NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0592.tlg002.1st1K-grc1,"section,paragraph",Hermogenes,Περὶ τῶν στάσεων,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0592.tlg003.1st1K-grc1,"chapter,section",Hermogenes,Περὶ εὑρέσεως,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0592.tlg004.1st1K-grc1,"book,section,paragraph",Hermogenes,Περὶ ἰδεῶν λόγου,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0592.tlg005.1st1K-grc1,section,Hermogenes,Περὶ μεθόδου δεινότητος,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0593.1st1K001.1st1K-grc1,section,Gorgias of Leontini,"Encomium of Helen,ΕΛΕΝΗΣ ΕΓΚΩΜΙΟΝ",NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0593.1st1K002.1st1K-grc1,section,Gorgias of Leontini,"Defense of Palamedes,ΥΠΕΡ ΠΑΛΑΜΗΔΟΥΣ ΑΠΟΛΟΓΙΑ",NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0606.tlg001.1st1K-grc1,"chapter,section",Rufus Soph.,Ars rhetorica,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0610.perseus002.perseus-grc1,chapter,Alcidamas,Peri Sophiston,NA,NA,TRUE,grc
+urn:cts:greekLit:tlg0610.tlg001.opp-grc1,"fragment,section",Alcidamas,Odysseus,NA,NA,TRUE,grc
+urn:cts:greekLit:tlg0614.tlg001.1st1K-grc1,"book,chapter,section",Babrius,Fabulae Aesopeae,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0614.tlg001.1st1K-grc2,"book,chapter,section",NA,Fabulae Aesopeae,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0615.tlg001.opp-grc1,chapter,NA,Commentaria in Aristotelem Graeca,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0616.tlg001.1st1K-grc1,"book,section",Polyaenus,Strategemata,NA,NA,TRUE,grc
+urn:cts:greekLit:tlg0616.tlg002.1st1K-grc1,section,Polyaenus,Excerpta Polyaeni,NA,NA,TRUE,grc
+urn:cts:greekLit:tlg0627.tlg001.1st1K-grc1,chapter,Hippocrates,De prisca medicina,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0627.tlg002.1st1K-grc1,chapter,Hippocrates,"De aere, aquis, locis",NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0627.tlg003.1st1K-grc1,chapter,Hippocrates,Prognosticon,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0627.tlg004.1st1K-grc1,chapter,Hippocrates,De diaeta in morbis acutis,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0627.tlg005.1st1K-grc1,chapter,Hippocrates,De diaeta acutorum (spurium),NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0627.tlg006.1st1K-grc1,"book,chapter,section",Hippocrates,Epidemiarum,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0627.tlg007.1st1K-grc1,chapter,Hippocrates,De capitis vulneribus,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0627.tlg008.1st1K-grc1,chapter,Hippocrates,De officina medici,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0627.tlg009.1st1K-grc1,chapter,Hippocrates,De fracturis,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0627.tlg010.1st1K-grc1,chapter,Hippocrates,De articulis,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0627.tlg011.1st1K-grc1,chapter,Hippocrates,Vectiarius,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0627.tlg012.1st1K-grc1,"book,aphorism",Hippocrates,Aphorismi,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0627.tlg013.1st1K-grc1,chapter,Hippocrates,Iusiurandum,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0627.tlg014.1st1K-grc1,chapter,Hippocrates,Lex,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0627.tlg015.1st1K-grc1,chapter,Hippocrates,De humoribus,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0627.tlg016.1st1K-grc1,"book,chapter",Hippocrates,Prorrheticon I,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0627.tlg017.1st1K-grc1,chapter,Hippocrates,Coa praesagia,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0627.tlg018.1st1K-grc1,chapter,Hippocrates,De arte,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0627.tlg019.1st1K-grc1,chapter,Hippocrates,De natura hominis,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0627.tlg020.1st1K-grc1,chapter,Hippocrates,De salubri diaeta,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0627.tlg021.1st1K-grc1,chapter,Hippocrates,De flatibus,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0627.tlg022.1st1K-grc1,chapter,Hippocrates,De liquidorum usu,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0627.tlg023.1st1K-grc1,chapter,Hippocrates,De morbis I,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0627.tlg024a.1st1K-grc1,chapter,Hippocrates,De genitura,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0627.tlg024b.1st1K-grc1,chapter,Hippocrates,De natura pueri,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0627.tlg025.1st1K-grc1,chapter,Hippocrates,De affectionibus,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0627.tlg026.1st1K-grc1,chapter,Hippocrates,De locis in homine,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0627.tlg027.1st1K-grc1,chapter,Hippocrates,De morbo sacro,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0627.tlg028.1st1K-grc1,chapter,Hippocrates,De ulceribus,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0627.tlg029.1st1K-grc1,chapter,Hippocrates,De haemorrhoidibus,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0627.tlg030.1st1K-grc1,chapter,Hippocrates,De fistulis,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0627.tlg031.1st1K-grc1,"book,chapter",Hippocrates,De diaeta,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0627.tlg032.1st1K-grc1,chapter,Hippocrates,De affectionibus interioribus,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0627.tlg033.1st1K-grc1,chapter,Hippocrates,De natura muliebri,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0627.tlg035.1st1K-grc1,chapter,Hippocrates,De octimestri partu,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0627.tlg036.1st1K-grc1,"book,chapter",Hippocrates,De muliebribus,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0627.tlg037.1st1K-grc1,chapter,Hippocrates,De virginum morbis,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0627.tlg038.1st1K-grc1,chapter,Hippocrates,De superfoetatione,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0627.tlg039.1st1K-grc1,chapter,Hippocrates,De exsectione foetus,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0627.tlg040.1st1K-grc1,work,Hippocrates,De anatomia,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0627.tlg041.1st1K-grc1,section,Hippocrates,De dentitione,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0627.tlg042.1st1K-grc1,chapter,Hippocrates,De glandulis,NA,NA,TRUE,"lat,grc"
+urn:cts:greekLit:tlg0627.tlg043.1st1K-grc1,chapter,Hippocrates,De carnibus,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0627.tlg045.1st1K-grc1,chapter,Hippocrates,De corde,NA,NA,TRUE,grc
+urn:cts:greekLit:tlg0627.tlg046.1st1K-grc1,section,Hippocrates,De alimento,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0627.tlg047.1st1K-grc1,chapter,Hippocrates,De visu,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0627.tlg048.1st1K-grc1,chapter,Hippocrates,De natura ossium,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0627.tlg049.1st1K-grc1,chapter,Hippocrates,De medico,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0627.tlg050.1st1K-grc1,chapter,Hippocrates,De habitu decenti,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0627.tlg051.1st1K-grc1,chapter,Hippocrates,Praeceptiones,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0627.tlg052.1st1K-grc1,chapter,Hippocrates,De crisibus,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0627.tlg053.1st1K-grc1,chapter,Hippocrates,De diebus criticis,NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0627.tlg055.1st1K-grc1,chapter,Hippocrates,"Epistulae, Decretum, Orationes",NA,NA,TRUE,greek
+urn:cts:greekLit:tlg0640.tlg001.First1K-grc1,"book,section",Alciphron,Epistulae,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0643.opp001.1st1K-lat1,paragraph,Hermannus Diels,Preface to Anonymi Londinensis ex Aristotelis iatricis Menoniis et aliis medicis eclogae,NA,NA,TRUE,lat
+urn:cts:greekLit:tlg0643.opp002.1st1K-lat1,paragraph,Hermannus Diels,Epimetrum to Anonymi Londinensis ex Aristotelis iatricis Menoniis et aliis medicis eclogae,NA,NA,TRUE,lat
+urn:cts:greekLit:tlg0643.opp003.1st1K-grc1,section,NA,Supplementum Aristotelicum,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0643.tlg001.1st1K-grc1,"section,line",Anonymus Londinensis,Iatrica,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0643.tlg001.1st1K-grc2,sigla,Hermannus Diels,Sigla to Anonymus Londinensis Iatrica,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0643.tlg001.1st1K-lat1,paragraph,K. F. G. Kenyon,Signorum Explicatio to Iatrica,NA,NA,TRUE,lat
+urn:cts:greekLit:tlg0643.tlg001.1st1K-mul1,"index,paragraph",NA,Index Verborum to Iatrica,NA,NA,TRUE,"grc,lat,mul"
+urn:cts:greekLit:tlg0643.tlg001.1st1K-mul2,"index,paragraph",NA,Supplementum Aristotelicum,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1,section,NA,Anonymus Londinensis Fragmenta,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0644.tlg001.1st1K-grc1,"chapter,section",Aristophanes of Byzantium,Historiae Animalium Epitome,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0645.tlg001.opp-grc1,book,Justinus Martyr,Apologia,NA,NA,TRUE,grc
+urn:cts:greekLit:tlg0645.tlg002.opp-grc1,book,Justinus Martyr,Apologia Secunda,NA,NA,TRUE,grc
+urn:cts:greekLit:tlg0645.tlg002.perseus-grc2,chapter,Justin Martyr,Apology II,NA,NA,TRUE,grc
+urn:cts:greekLit:tlg0645.tlg003.perseus-grc2,"chapter,section",Justinus Martyr,Dialogus cum Tryphone,NA,NA,TRUE,grc
+urn:cts:greekLit:tlg0646.tlg004.1st1K-grc1,"chapter,section",Pseudo-Justinus Martyr,Epistula ad Diognetum,NA,NA,TRUE,"lat,grc"
+urn:cts:greekLit:tlg0656.tlg001.1st1K-grc1,"book,chapter,section",Dioscurides Pedianus,De materia medica,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0657.tlg001.1st1K-grc1,"chapter,section",Crateuas,Fragmenta,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0658.tlg001.perseus-grc1,"book,chapter",Heliodorus of Emesa,Aethiopica,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1,"chapter,section",Philumenus,De venenatis animalibus eorumque remediis,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0708.tlg001.1st1K-grc1,"chapter,section",Ammonius Grammaticus,"De adfinium vocabulorum differentia,ΠΕΡΙ ΟΜΟΙΩΝ ΚΑΙ ΔΙΑΦΟΡΩΝ ΛΕΞΕΩΝ",NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0731.tlg001.1st1K-grc1,"book,section",Adamantius Judaeus,Physiognomonica,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0731.tlg003.1st1K-grc1,"book,section",Adamantius,Physiognomonica (epitome Matritensis),NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0732.tlg001.1st1K-grc1,section,Alexander of Aphrodisias,De mixtione,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0732.tlg004.opp-grc1,chapter,Alexander of Aphrodisias,In Aristotelis metaphysica commentaria,NA,NA,TRUE,grc
+urn:cts:greekLit:tlg0732.tlg005.opp-grc1,page,Alexander of Aphrodisias,In     Aristotelis analyticorum priorum librum I commentarium,NA,NA,TRUE,grc
+urn:cts:greekLit:tlg0732.tlg006.opp-grc1,chapter,Alexander of Aphrodisias,In Aristotelis topicorum libros octo commentaria,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0732.tlg007.opp-grc1,chapter,Alexander of Aphrodisias,In Librum De Sensu Commentarium,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0732.tlg008.opp-grc1,chapter,Alexander of Aphrodisias,In Aristotelis Meteorologicorum Libros Commentaria,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0732.tlg010.1st1K-grc1,"work,paragraph",Alexander of Aphrodisias,De anima,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0732.tlg011.1st1K-grc1,"section,sentence",Alexander of Aphrodisias,De anima libri mantissa,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0732.tlg012.1st1K-grc1,"book,chapter,section",Alexander of Aphrodisias,Ἀπορίαι καὶ λύσεις [Sp.],NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0732.tlg012.opp-grc1,"quaestio,essay",Alexander of Aphrodisias,Quaestiones,NA,NA,TRUE,grc
+urn:cts:greekLit:tlg0732.tlg013.1st1K-grc1,chapter,Alexander of Aphrodisias,Ἠθικὰ προβλήματα [Sp.],NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0732.tlg014.1st1K-grc1,section,Alexander of Aphrodisias,De fato,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg0732.tlgX01.opp-grc1,page,Alexander of Aphrodisias,In Aristotelis Sophisticos Elenchos Commentarius [Sp.],NA,NA,TRUE,grc
+urn:cts:greekLit:tlg0751.tlg034.1st1K-grc1,chapter,pseudo-Hippocrates,De septimestri partu,NA,NA,TRUE,grc
+urn:cts:greekLit:tlg1126.tlg003.1st1K-grc1,work,Anubion,Fragmenta,NA,NA,TRUE,grc
+urn:cts:greekLit:tlg1181.tlg001.1st1K-grc1,chapter,Aristarchus of Samos,De magnitudinibus et distantiis solis et lunae,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg1205.tlg001.perseus-grc1,chapter,Athenagoras,Legatio sive Supplicatio pro Christianis,NA,NA,TRUE,grc
+urn:cts:greekLit:tlg1205.tlg001.perseus-grc2,chapter,Athenagoras,Supplication pro Christianis,NA,NA,TRUE,grc
+urn:cts:greekLit:tlg1205.tlg002.perseus-grc1,chapter,Athenagoras,De Resurrectione,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg1205.tlg002.perseus-grc2,"chapter,section",Athenagoras,De resurrectione,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg1210.tlg001.1st1K-grc1,"chapter,section",Autolycus,De Sphaera Quae Movetur,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg1210.tlg002.1st1K-grc1,"book,chapter,section",Autolycus,De Ortibus et Occasibus,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg1216.tlg001.opp-grc1,"chapter,section",Barnabas,Barnabae epistula,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg1220.tlg001.1st1K-grc1,line,NA,Batrachomyomachia,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg1252.tlg002.1st1K-grc1,book,NA,Certamen Homeri et Hesiodi,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg1271.tlg001.1st1K-grc1,"chapter,section",Clemens Romanus,Epistula I ad Corinthios,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg1271.tlg002.1st1K-grc1,"chapter,section",Clemens Romanus,Epistula II ad Corinthios,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg1272.tlg001.1st1K-grc1,"book,chapter,paragraph",Cleomedes,De motu circulari corporum caelestium,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg1311.tlg001.1st1K-grc1,"chapter,section",Anonymus,Didache XII Apostolorum,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg1329.tlg001.1st1K-grc1,fragment,Dionysius Corinthius,Fragmenta,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg1337.tlg003.1st1K-grc1,section,Dorotheus of Sidon,Fragmenta alia antiqua,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg1409.opp003.1st1K-grc1,section,Heraclides Ponticus,Res Publica Atheniensium,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg1419.tlg001.1st1K-grc1,"book,chapter,section","Hermas, 2nd cent.",The Shepherd of Hermas,NA,NA,TRUE,grc
+urn:cts:greekLit:tlg1431.tlg003.1st1K-grc1,"book,chapter,section",Hipparchus,In Arati et Eudoxi phaenomena commentariorum libri iii,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg1443.tlg004.1st1K-grc1,"chapter,section",Ignatius Antiochenus,Ad Ephesios (epist. 1),NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg1443.tlg005.1st1K-grc1,"chapter,section",Ignatius Antiochenus,Ad Magnesios (epist. 2),NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg1443.tlg006.1st1K-grc1,"chapter,section",Ignatius Antiochenus,Ad Trallianos (epist. 3),NA,NA,TRUE,grc
+urn:cts:greekLit:tlg1443.tlg007.1st1K-grc1,"chapter,section",Ignatius Antiochenus,Ad Romanos (epist. 4),NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg1443.tlg008.1st1K-grc1,"chapter,section",Ignatius Antiochenus,Ad Philadelphios (epist. 5),NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg1443.tlg009.1st1K-grc1,"chapter,section",Ignatius Antiochenus,Ad Smyrnaeos (epist. 6),NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg1443.tlg010.1st1K-grc1,"chapter,section",Ignatius Antiochenus,Ad Polycarpum (epist. 7),NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg1447.tlg001.1st1K-grc1,"chapter,section",Irenaeus,Libros quinque adversus haereses,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg1463.tlg001.1st1K-grc1,"chapter,verse",Liber Enoch,Apocalypsis Enochi,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg1463.tlg001.1st1K-lat1,"chapter,verse",Liber Enoch,Apocalypsis Enochi,NA,NA,TRUE,"deu,lat"
+urn:cts:greekLit:tlg1463.tlg001.opp-ger1,"chapter,verse",Liber Enoch,Apocalypsis Enochi,NA,NA,TRUE,"deu,lat"
+urn:cts:greekLit:tlg1463.tlg001.opp-grc1,"chapter,section",Liber Enoch,Apocalypsis Enochi,NA,NA,TRUE,"grc,lat,deu"
+urn:cts:greekLit:tlg1484.tlg001.1st1K-grc1,"chapter,section",NA,Martyrium Polycarpi,NA,NA,TRUE,grc
+urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1,chapter,"Maximus, Astrologus",Περὶ καταρχῶν,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg1487.tlg002.1st1K-grc1,chapter,"Maximus, Astrologus",Περὶ καταρχῶν (epitome),NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg1551.tlg001.opp-grc1,book,Oracula Sibyllina,Oracula,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg1551.tlg002.opp-grc1,fragment,Oracula Sibyllina,Fragmenta,NA,NA,TRUE,"grc,lat,deu"
+urn:cts:greekLit:tlg1595.tlg221.1st1K-grc1,"book,section",Philodemus,De Musica Librorum Quae Exstant,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg1595.tlg370.1st1K-grc1,"book,fragment",Philodemus,Volumina Rhetorica,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg1622.tlg001.1st1K-grc1,"chapter,section",Polycarp,Epistula ad Philippenses,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg1665.tlg001.1st1K-grc1,fragment,Seniores Apud Irenaeum,Reliquiae plurium anonymorum,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg1701.tlg001.1st1K-grc1,chapter,Testamentum Abrahamae,The Testament of Abraham Recension A,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg1701.tlg002.1st1K-grc1,chapter,Testamentum Abrahamae,The Testament of Abraham Recension B,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg1724.tlg001.1st1K-grc1,paragraph,Theon Smyrnaeus,De utilitate mathematicae,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg1725.tlg001.perseus-grc1,"book,section",Theophilus Antiochenus,Ad Autolycum,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg1725.tlg001.perseus-grc2,"book,chapter",Theophilus Antiochenus,Ad Autolycum,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg1764.tlg001.1st1K-grc1,"book,chapter,paragraph",Vettius Valens,Anthologiarum libri ix,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg1765.tlg003.1st1K-grc1,chapter,Vitae Aesopi,Vita Aesopi Pl vel Accursiana (sub auctore Maximo Planude)(recensio 1),NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg1765.tlg004.1st1K-grc1,book,Vitae Aesopi,Vita Aesopi (fort. auctore Aphthonio),NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg1765.tlg005.1st1K-grc1,chapter,Vitae Aesopi,Βιβλίον μυθικὸν τοῦ Αἰσώπου,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg1766.tlg001.perseus-grc1,chapter,Tatianus,Oratio ad Graecos,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg1799.tlg007.First1K-grc1,section,Euclid,Data,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg1799.tlg008.First1K-grc1,"section,subsection",Euclid,Data (demonstrationes alterae),NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg1799.tlg009.1st1K-grc1,chapter,Euclides,Optica,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1,chapter,Euclides,Opticorum recensio Theonis,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg1799.tlg011.1st1K-grc1,chapter,Euclides,Catoptrica (recensio Theonis?),NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg1799.tlg012.1st1K-grc1,chapter,Euclid,Phaenomena,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg1799.tlg013.1st1K-grc1,work,Euclid,Phaenomena (recensio b),NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg1799.tlg014.1st1K-grc1,chapter,Euclid,Phaenomena (demonstrationes alterae recensionis b),NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg1799.tlg015.1st1K-grc1,chapter,Euclid,Sectio canonis [Sp.],NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg1799.tlg015.opp-grc1,section,Euclid,Sectio canonis [Sp.],NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg1799.tlg016.1st1K-grc1,"chapter,section",Euclid,Fragmenta,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg1799.tlg017.1st1K-grc1,work,Euclid,Epigramma,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg2000.tlg001.opp-grc2,"book,chapter,section",Plotinus,Enneades,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg2001.tlg038.opp-grc1,chapter,Themistius,Analyticorum Posteriorum Paraphrasis,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg2001.tlg039.opp-grc1,chapter,Themistius,In Aristotelis Physica Paraphrasis,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg2001.tlg040.opp-grc1,chapter,Themistius,In libros Aristotelis de Anima paraphrasis,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg2001.tlg041.opp-grc1,chapter,Themistius,(Sophoniae) In Parva Naturalia Commentarium,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg2001.tlg042.opp-grc1,chapter,Themistius,Quae Fertur In Aristotelis Analyticorum Priorum Librum I,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg2001.tlg043.opp-lat1,"chapter,paragraph",Themistius,In Libros Aristotelis De Caelo Paraphrasis,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg2001.tlg044.opp-lat1,chapter,Themistius,In Aristotelis Metaphysicorum,NA,NA,TRUE,lat
+urn:cts:greekLit:tlg2018.tlg001.opp-grc1,"book,chapter,section",Eusebius,Praeperatio Evangelica,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg2018.tlg002.1st1K-eng1,paragraph,Kirsopp Lake,Preface to Historia Ecclesiastica,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg2018.tlg002.1st1K-eng2,book,Kirsopp Lake,Contents of Historia Ecclesiastica,NA,NA,TRUE,lat
+urn:cts:greekLit:tlg2018.tlg002.1st1K-eng3,paragraph,Kirsopp Lake,Introduction to Historia Ecclesiastica,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg2018.tlg002.1st1K-eng4,paragraph,Kirsopp Lake,Index to Historia Ecclesiastica,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg2018.tlg002.opp-eng1,"book,chapter",Eusebius,Historia Ecclesiastica,NA,NA,TRUE,"eng,lat"
+urn:cts:greekLit:tlg2018.tlg002.opp-grc2,"book,chapter,section",Eusebius,Historia Ecclesiastica,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg2018.tlg002.opp-grc3,book,Eusebius,Historia Ecclesiastica,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg2018.tlg003.opp-grc1,"chapter,section",Eusebius,De Martyribus Palaestinae (Recensio Brevior),NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg2018.tlg005.opp-grc1,"book,chapter,section",Eusebius,Demonstratio Evangelica,NA,NA,TRUE,grc
+urn:cts:greekLit:tlg2018.tlg009.opp-grc1,"book,chapter,section",Eusebius,De Ecclesiastica Theologia,NA,NA,TRUE,"grc,lat,deu"
+urn:cts:greekLit:tlg2018.tlg010.opp-ger1,"book,chapter",Eusebius,Die Theophanie,NA,NA,TRUE,deu
+urn:cts:greekLit:tlg2018.tlg010.opp-grc1,fragment,Eusebius,De Theophania (Fragmenta),NA,NA,TRUE,"grc,deu,lat"
+urn:cts:greekLit:tlg2018.tlg011.opp-grc1,section,Eusebius,Onomasticon,NA,NA,TRUE,"grc,lat,deu"
+urn:cts:greekLit:tlg2018.tlg011.opp-lat1,section,Eusebius,Onomasticon,NA,NA,TRUE,"lat,deu"
+urn:cts:greekLit:tlg2018.tlg020.opp-grc1,"book,chapter,section",Eusebius,Vita Constantini,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg2018.tlg021.opp-grc1,"chapter,section",Eusebius,Constantini imperatoris oratio ad coetum sanctorum,NA,NA,TRUE,grc
+urn:cts:greekLit:tlg2018.tlg022.opp-grc1,"chapter,section",Eusebius,De laudibus Constantini,NA,NA,TRUE,"grc,lat,deu"
+urn:cts:greekLit:tlg2021.tlg001.opp-grc1,"chapter,section|letter,section",Epiphanius,Ancoratus,NA,NA,TRUE,"grc,lat,deu"
+urn:cts:greekLit:tlg2021.tlg002.opp-grc1,"haeresis,chapter,section",Epiphanius,Panarion (Adversus haereses),NA,NA,TRUE,"grc,lat,deu"
+urn:cts:greekLit:tlg2021.tlg003.opp-grc1,"haeresis,section",Epiphanius,Anacephalaeosis [Sp.],NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg2022.tlg003.opp-grc1,"section,line",Gregorius Nazianzenus,Christus patiens [Dub.] (fort. auctore Constantino Manasse),NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg2022.tlg007.opp-grc1,chapter,Gregorius Nazianzenus,Adversus Eunomianos (orat. 27),NA,NA,TRUE,"grc,lat,eng"
+urn:cts:greekLit:tlg2022.tlg008.opp-grc1,chapter,Gregorius Nazianzenus,De Theologia (Orat. 28),NA,NA,TRUE,"grc,lat,eng"
+urn:cts:greekLit:tlg2022.tlg009.opp-grc1,chapter,Gregorius Nazianzenus,De Filio (Orat. 29),NA,NA,TRUE,"grc,lat,eng"
+urn:cts:greekLit:tlg2022.tlg010.opp-grc1,chapter,Gregorius Nazianzenus,De Filio (Orat. 30),NA,NA,TRUE,"grc,lat,eng"
+urn:cts:greekLit:tlg2022.tlg011.opp-grc1,chapter,Gregorius Nazianzenus,De Spiritu Sancto (Orat. 31),NA,NA,TRUE,"grc,lat,eng"
+urn:cts:greekLit:tlg2022.tlg060.1st1K-grc1,sentence,"pseudo-Menander,Gregory Nazianzus",Sententiae = (Carmen morale XXX),NA,NA,TRUE,"grc,deu"
+urn:cts:greekLit:tlg2023.tlg002.1st1K-grc1,"chapter,section",Iamblichus,Protrepticus,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg2027.tlg001.1st1K-grc1,"chapter,paragraph",Valerius Apsines,Ars rhetorica,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg2027.tlg002.1st1K-grc1,paragraph,Valerius Apsines,Περὶ τῶν ἐσχηματισμένων προβλημάτων,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg2029.tlg001.1st1K-grc1,"chapter,section",Anonymous,Anonymi summaria ratio geographiae in sphaera intelligendae,NA,NA,TRUE,"grc,lat,deu"
+urn:cts:greekLit:tlg2032.tlg001.1st1K-grc1,"book,chapter",Pappus Alexandrinus,Synagoge,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg2034.tlg002.1st1K-grc1,section,Porphyrius,Vita Pythagorae,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg2034.tlg003.1st1K-grc1,"book,section",Porphyrius,De abstinentia,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg2034.tlg005.1st1K-grc1,section,Porphyrius,Ad Marcellam,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg2034.tlg006.opp-grc1,chapter,Porphyrius,Isagoge sive quinque voces,NA,NA,TRUE,"grc,lat,deu,fre"
+urn:cts:greekLit:tlg2034.tlg006.opp-lat1,chapter,Porphyrius,Isagoge sive quinque voces,NA,NA,TRUE,"grc,lat,deu,fre"
+urn:cts:greekLit:tlg2034.tlg007.opp-grc1,chapter,Porphyrius,In Aristotelis categorias expositio per interrogationem et responsionem,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg2034.tlg014.1st1K-grc1,"chapter,section",Porphyry,Quaestionum Homericanum ad Iliadem pertinentium reliquiae,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg2034.tlg015.1st1K-grc1,"chapter,section",Porphyry,Zetemata codicis Vaticani,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg2034.tlg027.1st1K-grc1,"book,chapter",Porphyrius,Historia philosophiae (fragmenta),NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg2035.tlg003.opp-grc1,"chapter,section",Athanasius of Alexandria,De decretis Nicaenae synodi (Chapters 41 and 42),NA,NA,TRUE,"grc,lat,deu"
+urn:cts:greekLit:tlg2035.tlg003.opp-lat1,"chapter,section",Athanasius of Alexandria,De decretis Nicaenae synodi (Chapters 41 and 42),NA,NA,TRUE,lat
+urn:cts:greekLit:tlg2035.tlg117.1st1K-grc1,chapter,Athanasius,Oratio quarta contra Arianos [Sp.],NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg2035.tlg130.1st1K-grc1,chapter,Athanasius,Oratio I contra Arianos,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg2035.tlg131.1st1K-grc1,chapter,Athanasius,Oratio II contra Arianos,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg2035.tlg132.1st1K-grc1,chapter,Athanasius,Oratio III contra Arianos,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg2036.tlg001.opp-grc1,chapter,Dexippus,In Aristotelis categorias commentarium,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg2039.tlg003.1st1K-grc1,paragraph,Diophantus Alexandrinus,"Fragmentum [Sp.] (e cod. Paris. suppl. gr. 387, fol. 181r)",NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg2039.tlg004.1st1K-grc1,paragraph,Diophantus Alexandrinus,Fragmentum [Sp.] (e cod. Paris. 453),NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1,paragraph,Diophantus Alexandrinus,Fragmentum [Sp.] (e cod. Paris. gr. 2448),NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg2041.tlg001.opp-grc1,fragment,Marcellus,Fragmenta,NA,NA,TRUE,"grc,lat,deu"
+urn:cts:greekLit:tlg2042.tlg001.perseus-grc1,"book,chapter",Origenes,Contra Celsum,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg2042.tlg005.opp-grc1,"book,section|fragment",Origenes,Commentarii in Evangelium Joannis,NA,NA,TRUE,"grc,lat,deu"
+urn:cts:greekLit:tlg2042.tlg006.opp-grc1,fragment,Origenes,Fragmenta In Evangelium Joannis (In Catenis),NA,NA,TRUE,"grc,lat,deu"
+urn:cts:greekLit:tlg2042.tlg007.perseus-grc1,chapter,Origenes,Exhortatio ad martyrium,NA,NA,TRUE,"grc,lat,deu"
+urn:cts:greekLit:tlg2042.tlg008.perseus-grc1,"chapter,secton",Origenes,De oratione,NA,NA,TRUE,"grc,lat,deu"
+urn:cts:greekLit:tlg2042.tlg009.opp-grc1,"homilia,section",Origenes,In Jeremiam (Homiliae 1-11),NA,NA,TRUE,"grc,lat,deu"
+urn:cts:greekLit:tlg2042.tlg010.opp-grc1,fragment,Origenes,Fragmenta In Jeremiam (in Catenis),NA,NA,TRUE,"grc,deu,lat"
+urn:cts:greekLit:tlg2042.tlg011.opp-grc1,fragment,Origenes,Fragmenta In Lamentationes (In Catenis de Prophetis),NA,NA,TRUE,"grc,deu,lat"
+urn:cts:greekLit:tlg2042.tlg012.opp-grc1,fragment,Origenes,Fragmentum in Lamentationes (In Catenis de Octateucho),NA,NA,TRUE,"grc,deu,lat"
+urn:cts:greekLit:tlg2042.tlg013.opp-grc1,section,Origenes,De Engastrimytho,NA,NA,TRUE,"grc,deu,lat"
+urn:cts:greekLit:tlg2042.tlg014.opp-grc1,fragment,Origenes,Fragmenta in Librum Primum Regnorum (In Catenis de Samuelis et                     Regnorum),NA,NA,TRUE,"grc,deu,lat"
+urn:cts:greekLit:tlg2042.tlg015.opp-grc1,fragment,Origenes,Fragmentum In Librum Primum Regnorum (In Catenis de Cantico                     Canticorum),NA,NA,TRUE,"grc,deu,lat"
+urn:cts:greekLit:tlg2042.tlg016.opp-grc1,homilia,Origenes,Homiliae In Lucam,NA,NA,TRUE,"grc,lat,deu"
+urn:cts:greekLit:tlg2042.tlg017.opp-grc1,fragment,Origenes,Fragmenta in Lucam (in catenis),NA,NA,TRUE,"grc,deu,lat"
+urn:cts:greekLit:tlg2042.tlg019.1st1K-grc1,"book,chapter,section",Origen,The Philocalia of Origen,NA,NA,TRUE,grc
+urn:cts:greekLit:tlg2042.tlg021.opp-grc1,"homilia,section",Origenes,In Jeremiam (Homiliae 12-20),NA,NA,TRUE,"grc,deu,lat"
+urn:cts:greekLit:tlg2042.tlg028.1st1K-lat1,chapter,Origenes,Commentariorum Series In Evangelium Matthaei,NA,NA,TRUE,"grc,lat,deu"
+urn:cts:greekLit:tlg2042.tlg029.opp-grc1,"book,chapter",Origenes,Commentarium In Evangelium Matthaei (Lib. 10-11),NA,NA,TRUE,"grc,lat,deu"
+urn:cts:greekLit:tlg2042.tlg030.opp-grc1,"book,chapter",Origen,Commentarium In Evangelium Matthaei (Lib. 12-17),NA,NA,TRUE,"grc,lat,deu"
+urn:cts:greekLit:tlg2042.tlg030.opp-lat1,"book,chapter",Origen,Commentarium In Evangelium Matthaei (Lib. 12-17),NA,NA,TRUE,"lat,deu"
+urn:cts:greekLit:tlg2042.tlg045.1st1K-grc1,"epistle,paragraph",Origenes,Epistula ad Africanum,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg2042.tlg048.1st1K-grc1,"chapter,pargraph",Origenes,Selecta in Genesim,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg2042.tlg050.1st1K-grc1,paragraph,Origenes,Selecta in Exodum,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg2042.tlg051.1st1K-grc1,paragraph,Origenes,Selecta in Leviticum,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg2042.tlg052.1st1K-grc1,paragraph,Origenes,Selecta in Numeros,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg2042.tlg053.1st1K-grc1,paragraph,Origenes,Selecta in Deuteronomium,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg2042.tlg054.1st1K-grc1,paragraph,Origenes,Selecta in Jesum Nave,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg2042.tlg055.1st1K-grc1,paragraph,Origenes,Selecta in Judices,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg2042.tlg057.1st1K-grc1,chapter,Origenes,Selecta in Job,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg2042.tlg058.1st1K-grc1,"chapter,paragraph",Origen,Selecta in Psalmos [Dub.],NA,NA,TRUE,"fre,grc,lat"
+urn:cts:greekLit:tlg2042.tlg061.1st1K-grc1,"chapter,verse",Origen,Fragmenta in Ezechielem,NA,NA,TRUE,"fre,grc,lat"
+urn:cts:greekLit:tlg2042.tlg066.1st1K-grc1,"chapter,verse",Origen,Adnotationes in Genesim,NA,NA,TRUE,"fre,grc,lat"
+urn:cts:greekLit:tlg2042.tlg067.1st1K-grc1,"chapter,verse",Origen,Adnotationes in Exodum,NA,NA,TRUE,"fre,grc,lat"
+urn:cts:greekLit:tlg2042.tlg068.1st1K-grc1,"chapter,verse",Origen,Adnotationes in Leviticum (fragmenta e catenis),NA,NA,TRUE,"fre,grc,lat"
+urn:cts:greekLit:tlg2042.tlg069.1st1K-grc1,"chapter,verse",Origen,Adnotationes in Numeros,NA,NA,TRUE,"fre,grc,lat"
+urn:cts:greekLit:tlg2042.tlg070.1st1K-grc1,"chapter,verse",Origen,Adnotationes in Deuteronomium (fragmenta e catenis),NA,NA,TRUE,"fre,grc,lat"
+urn:cts:greekLit:tlg2042.tlg071.1st1K-grc1,"chapter,verse",Origen,Adnotationes in Jesu filium Nave (fragmenta e catenis),NA,NA,TRUE,"fre,grc,lat"
+urn:cts:greekLit:tlg2042.tlg072.1st1K-grc1,"chapter,verse",Origen,Adnotationes in Judices,NA,NA,TRUE,"fre,grc,lat"
+urn:cts:greekLit:tlg2042.tlg073.1st1K-grc1,"chapter,verse",Origen,"Homiliae in Job (fragmenta in catenis, typus II)",NA,NA,TRUE,"fre,grc,lat"
+urn:cts:greekLit:tlg2042.tlg074.1st1K-grc1,"chapter,verse",Origen,Excerpta in Psalmos [Dub.],NA,NA,TRUE,"fre,grc,lat"
+urn:cts:greekLit:tlg2042.tlg075.1st1K-grc1,"chapter,paragraph",Origen,Expositio in Proverbia (fragmenta e catenis),NA,NA,TRUE,"fre,grc,lat"
+urn:cts:greekLit:tlg2042.tlg076.1st1K-grc1,"chapter,paragraph",Origen,Scholia in Canticum canticorum,NA,NA,TRUE,"fre,grc,lat"
+urn:cts:greekLit:tlg2042.tlg077.1st1K-grc1,"chapter,verse",Origen,Scholia in Matthaeum,NA,NA,TRUE,"fre,grc,lat"
+urn:cts:greekLit:tlg2042.tlg078.1st1K-grc1,"part,chapter,verse",Origen,Scholia in Lucam (fragmenta e cod. Venet. 28),NA,NA,TRUE,"fre,grc,lat"
+urn:cts:greekLit:tlg2042.tlg084.opp-grc1,"fragment,section",Origenes,Fragmenta In Jeremiam (E Philocalia),NA,NA,TRUE,"grc,deu"
+urn:cts:greekLit:tlg2048.tlg001.1st1K-grc1,"book,chapter,section","Sozomenus, Salaminius Hermias",Historia Ecclesiastica,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg2050.tlg001.opp-grc1,chapter,Eunapius,Vitae Sophistarum,NA,NA,TRUE,"lat,grc,deu"
+urn:cts:greekLit:tlg2057.tlg002.1st1K-grc1,"book,chapter","Socrates, Scholasticus",Historia Ecclesiastica,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg2058.tlg001.1st1K-grc1,"chapter,paragraph",Philostorgius,Historia ecclesiastica (fragmenta ap. Photium),NA,NA,TRUE,grc
+urn:cts:greekLit:tlg2115.tlg060.opp-grc1,"book,chapter,section",Hippolytus,Refutatio Omnium Haeresium,NA,NA,TRUE,"grc,lat,deu"
+urn:cts:greekLit:tlg2115.tlg060.perseus-grc1,"book,chapter",Hippolytus,Refutatio Omnium Haeresium,NA,NA,TRUE,"grc,lat,deu"
+urn:cts:greekLit:tlg2135.tlg001.opp-grc1,"book,fragment",Alypius,Isagoge musica,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg2136.tlg001.opp-grc1,fragment,Bacchius Geron,Isagoge,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg2137.tlg001.1st1K-grc1,section,Gaudentius,Harmonica introductio,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg2138.tlg001.opp-grc1,section,Canticum Euripidis,Ex Orestis Stasimo I,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg2139.tlg001.opp-grc1,section,Epitaphium Sicili,Sicili Epitaphium,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg2178.tlg001.1st1K-grc1,"chapter,paragraph",Cassius Longinus,Ars rhetorica,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg2178.tlg002.1st1K-grc1,section,Cassius Longinus,Excerpta,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg2200.tlg001.opp-grc1,"letter,chapter",Libanius,Epistulae 1-839,NA,NA,TRUE,lat
+urn:cts:greekLit:tlg2200.tlg00401.opp-grc1,chapter,Libanius,Oratio I,NA,NA,TRUE,"lat,grc,deu"
+urn:cts:greekLit:tlg2200.tlg00402.opp-grc1,chapter,Libanius,Oratio 2,NA,NA,TRUE,"lat,grc,deu"
+urn:cts:greekLit:tlg2200.tlg00403.opp-grc1,chapter,Libanius,Oratio 3,NA,NA,TRUE,"lat,grc,deu"
+urn:cts:greekLit:tlg2200.tlg00404.opp-grc1,chapter,Libanius,Oratio 4,NA,NA,TRUE,"lat,grc,deu"
+urn:cts:greekLit:tlg2200.tlg00405.opp-grc1,chapter,Libanius,Oratio V,NA,NA,TRUE,"lat,grc,deu"
+urn:cts:greekLit:tlg2200.tlg00406.opp-grc1,chapter,Libanius,Oratio VI,NA,NA,TRUE,"lat,grc,deu"
+urn:cts:greekLit:tlg2200.tlg00407.opp-grc1,chapter,Libanius,Oratio 7,NA,NA,TRUE,"lat,grc,deu"
+urn:cts:greekLit:tlg2200.tlg00408.opp-grc1,chapter,Libanius,Oratio VIII,NA,NA,TRUE,"lat,grc,deu"
+urn:cts:greekLit:tlg2200.tlg00409.opp-grc1,chapter,Libanius,Oratio 9,NA,NA,TRUE,"lat,grc,deu"
+urn:cts:greekLit:tlg2200.tlg00410.opp-grc1,chapter,Libanius,Oratio 10,NA,NA,TRUE,"lat,grc,deu"
+urn:cts:greekLit:tlg2200.tlg00411.opp-grc1,chapter,Libanius,Oratio 11,NA,NA,TRUE,"lat,grc,deu"
+urn:cts:greekLit:tlg2200.tlg00426.opp-grc1,chapter,Libanius,Oratio 26,NA,NA,TRUE,"lat,grc,deu"
+urn:cts:greekLit:tlg2200.tlg00427.opp-grc1,chapter,Libanius,Oratio 27,NA,NA,TRUE,"lat,grc,deu"
+urn:cts:greekLit:tlg2200.tlg00428.opp-grc1,chapter,Libanius,Oratio 28,NA,NA,TRUE,"lat,grc,deu"
+urn:cts:greekLit:tlg2200.tlg00429.opp-grc1,chapter,Libanius,Oratio 29,NA,NA,TRUE,"lat,grc,deu"
+urn:cts:greekLit:tlg2200.tlg00430.opp-grc1,chapter,Libanius,Oratio 30,NA,NA,TRUE,"lat,grc,deu"
+urn:cts:greekLit:tlg2200.tlg00431.opp-grc1,chapter,Libanius,Oratio 31,NA,NA,TRUE,"lat,grc,deu"
+urn:cts:greekLit:tlg2200.tlg00432.opp-grc1,chapter,Libanius,Oratio 32,NA,NA,TRUE,"lat,grc,deu"
+urn:cts:greekLit:tlg2200.tlg00433.opp-grc1,chapter,Libanius,Oratio 33,NA,NA,TRUE,"lat,grc,deu"
+urn:cts:greekLit:tlg2200.tlg00434.opp-grc1,chapter,Libanius,Oratio 34,NA,NA,TRUE,"lat,grc,deu"
+urn:cts:greekLit:tlg2200.tlg00435.opp-grc1,chapter,Libanius,Oratio 35,NA,NA,TRUE,"lat,grc,deu"
+urn:cts:greekLit:tlg2200.tlg00436.opp-grc1,chapter,Libanius,Oratio 36,NA,NA,TRUE,"lat,grc,deu"
+urn:cts:greekLit:tlg2200.tlg00437.opp-grc1,chapter,Libanius,Oratio 37,NA,NA,TRUE,"lat,grc,deu"
+urn:cts:greekLit:tlg2200.tlg00438.opp-grc1,chapter,Libanius,Oratio 38,NA,NA,TRUE,"lat,grc,deu"
+urn:cts:greekLit:tlg2200.tlg00439.opp-grc1,chapter,Libanius,Oratio 39,NA,NA,TRUE,"lat,grc,deu"
+urn:cts:greekLit:tlg2200.tlg00440.opp-grc1,chapter,Libanius,Oratio 40,NA,NA,TRUE,"lat,grc,deu"
+urn:cts:greekLit:tlg2200.tlg00441.opp-grc1,chapter,Libanius,Oratio 41,NA,NA,TRUE,"lat,grc,deu"
+urn:cts:greekLit:tlg2200.tlg00442.opp-grc1,chapter,Libanius,Oratio 42,NA,NA,TRUE,"lat,deu,grc"
+urn:cts:greekLit:tlg2200.tlg00443.opp-grc1,chapter,Libanius,Oratio 43,NA,NA,TRUE,"lat,grc,deu"
+urn:cts:greekLit:tlg2200.tlg00444.opp-grc1,chapter,Libanius,Oratio 44,NA,NA,TRUE,"lat,grc,deu"
+urn:cts:greekLit:tlg2200.tlg00445.opp-grc1,chapter,Libanius,Oratio 45,NA,NA,TRUE,"lat,grc,deu"
+urn:cts:greekLit:tlg2200.tlg00446.opp-grc1,chapter,Libanius,Oratio 46,NA,NA,TRUE,"lat,grc,deu"
+urn:cts:greekLit:tlg2200.tlg00447.opp-grc1,chapter,Libanius,Oratio 47,NA,NA,TRUE,"lat,grc,deu"
+urn:cts:greekLit:tlg2200.tlg00448.opp-grc1,chapter,Libanius,Oratio 48,NA,NA,TRUE,"lat,grc,deu"
+urn:cts:greekLit:tlg2200.tlg00449.opp-grc1,chapter,Libanius,Oratio 49,NA,NA,TRUE,"lat,grc,deu"
+urn:cts:greekLit:tlg2200.tlg00450.opp-grc1,chapter,Libanius,Orationes L,NA,NA,TRUE,"lat,grc,deu"
+urn:cts:greekLit:tlg2200.tlg00451.opp-grc1,chapter,Libanius,Oratio 51,NA,NA,TRUE,"lat,deu,grc"
+urn:cts:greekLit:tlg2200.tlg00452.opp-grc1,chapter,Libanius,Oratio 52,NA,NA,TRUE,"lat,deu,grc"
+urn:cts:greekLit:tlg2200.tlg00453.opp-grc1,chapter,Libanius,Oratio 53,NA,NA,TRUE,"lat,deu,grc"
+urn:cts:greekLit:tlg2200.tlg00454.opp-grc1,chapter,Libanius,Oratio 54,NA,NA,TRUE,"lat,deu,grc"
+urn:cts:greekLit:tlg2200.tlg00455.opp-grc1,chapter,Libanius,Oratio 55,NA,NA,TRUE,"lat,deu,grc"
+urn:cts:greekLit:tlg2200.tlg00456.opp-grc1,chapter,Libanius,Oratio 56,NA,NA,TRUE,"lat,deu,grc"
+urn:cts:greekLit:tlg2200.tlg00457.opp-grc1,chapter,Libanius,Oratio 57,NA,NA,TRUE,"lat,deu,grc"
+urn:cts:greekLit:tlg2200.tlg00458.opp-grc1,chapter,Libanius,Oratio 58,NA,NA,TRUE,"lat,deu,grc"
+urn:cts:greekLit:tlg2200.tlg00459.opp-grc1,chapter,Libanius,Oratio 59,NA,NA,TRUE,"lat,deu,grc"
+urn:cts:greekLit:tlg2200.tlg00460.opp-grc1,chapter,Libanius,Oratio 60,NA,NA,TRUE,"lat,deu,grc"
+urn:cts:greekLit:tlg2200.tlg00461.opp-grc1,chapter,Libanius,Oratio 61,NA,NA,TRUE,"lat,deu,grc"
+urn:cts:greekLit:tlg2200.tlg00462.opp-grc1,chapter,Libanius,Oratio 62,NA,NA,TRUE,"lat,deu,grc"
+urn:cts:greekLit:tlg2200.tlg00463.opp-grc1,chapter,Libanius,Oratio 63,NA,NA,TRUE,"lat,deu,grc"
+urn:cts:greekLit:tlg2200.tlg00464.opp-grc1,chapter,Libanius,Oratio 64,NA,NA,TRUE,"lat,deu,grc"
+urn:cts:greekLit:tlg2200.tlg00501.opp-grc1,chapter,Libanius,Declamatio I,NA,NA,TRUE,"lat,grc,deu"
+urn:cts:greekLit:tlg2200.tlg00502.opp-grc1,chapter,Libanius,Declamatio 2,NA,NA,TRUE,"lat,deu,grc"
+urn:cts:greekLit:tlg2200.tlg00503.opp-grc1,"chapter,section",Libanius,Declamatio 3,NA,NA,TRUE,"lat,deu,grc"
+urn:cts:greekLit:tlg2200.tlg00504.opp-grc1,chapter,Libanius,Declamatio 4,NA,NA,TRUE,"lat,deu,grc"
+urn:cts:greekLit:tlg2200.tlg00505.opp-grc1,chapter,Libanius,Declamatio 5,NA,NA,TRUE,"lat,deu,grc"
+urn:cts:greekLit:tlg2200.tlg00506.opp-grc1,"chapter,section",Libanius,Declamatio 6,NA,NA,TRUE,"deu,lat,grc"
+urn:cts:greekLit:tlg2200.tlg00507.opp-grc1,chapter,Libanius,Declamatio 7,NA,NA,TRUE,"lat,deu,grc"
+urn:cts:greekLit:tlg2200.tlg00508.opp-grc1,chapter,Libanius,Declamatio 8,NA,NA,TRUE,"lat,deu,grc"
+urn:cts:greekLit:tlg2200.tlg00509.opp-grc1,chapter,Libanius,Declamatio 9,NA,NA,TRUE,"lat,deu,grc"
+urn:cts:greekLit:tlg2200.tlg00510.opp-grc1,chapter,Libanius,Declamatio 10,NA,NA,TRUE,"lat,deu,grc"
+urn:cts:greekLit:tlg2200.tlg00511.opp-grc1,chapter,Libanius,Declamatio 11,NA,NA,TRUE,"lat,deu,grc"
+urn:cts:greekLit:tlg2200.tlg00512.opp-grc1,chapter,Libanius,Declamatio 12,NA,NA,TRUE,"lat,deu,grc"
+urn:cts:greekLit:tlg2200.tlg00513.opp-grc1,chapter,Libanius,Declamatio 13,NA,NA,TRUE,"lat,deu,grc"
+urn:cts:greekLit:tlg2200.tlg00514.opp-grc1,chapter,Libanius,Declamatio 14,NA,NA,TRUE,"grc,deu,lat"
+urn:cts:greekLit:tlg2200.tlg00515.opp-grc1,chapter,Libanius,Declamatio 15,NA,NA,TRUE,"lat,deu,grc"
+urn:cts:greekLit:tlg2200.tlg00516.opp-grc1,chapter,Libanius,Declamatio 16,NA,NA,TRUE,"lat,deu,grc"
+urn:cts:greekLit:tlg2200.tlg00517.opp-grc1,chapter,Libanius,Declamatio 17,NA,NA,TRUE,"lat,deu,grc"
+urn:cts:greekLit:tlg2200.tlg00518.opp-grc1,chapter,Libanius,Declamatio 18,NA,NA,TRUE,"lat,deu,grc"
+urn:cts:greekLit:tlg2200.tlg00519.opp-grc1,chapter,"Libanius,Libanius",Declamatio 19,NA,NA,TRUE,"lat,deu,grc"
+urn:cts:greekLit:tlg2200.tlg00520.opp-grc1,chapter,Libanius,Declamatio 20,NA,NA,TRUE,"lat,deu,grc"
+urn:cts:greekLit:tlg2200.tlg00521.opp-grc1,chapter,Libanius,Declamatio 21,NA,NA,TRUE,"lat,deu,grc"
+urn:cts:greekLit:tlg2200.tlg00522.opp-grc1,chapter,Libanius,Declamatio 22,NA,NA,TRUE,"lat,deu,grc"
+urn:cts:greekLit:tlg2200.tlg00523.opp-grc1,chapter,Libanius,Declamatio 23,NA,NA,TRUE,"lat,deu,grc"
+urn:cts:greekLit:tlg2200.tlg00524.opp-grc1,"chapter,section",Libanius,Declamatio 24,NA,NA,TRUE,"grc,deu,grc"
+urn:cts:greekLit:tlg2200.tlg00525.opp-grc1,"chapter,section",Libanius,Declamatio 25,NA,NA,TRUE,"grc,deu,lat"
+urn:cts:greekLit:tlg2200.tlg00526.opp-grc1,chapter,Libanius,Declamatio 26,NA,NA,TRUE,"grc,deu,lat"
+urn:cts:greekLit:tlg2200.tlg00527.opp-grc1,chapter,Libanius,Declamatio 27,NA,NA,TRUE,"lat,deu,grc"
+urn:cts:greekLit:tlg2200.tlg00528.opp-grc1,chapter,Libanius,Declamatio 28,NA,NA,TRUE,"lat,deu,grc"
+urn:cts:greekLit:tlg2200.tlg00529.opp-grc1,chapter,Libanius,Declamatio 29,NA,NA,TRUE,"lat,deu,grc"
+urn:cts:greekLit:tlg2200.tlg00530.opp-grc1,chapter,Libanius,Declamatio 30,NA,NA,TRUE,"lat,deu,grc"
+urn:cts:greekLit:tlg2200.tlg00531.opp-grc1,chapter,Libanius,Declamatio 31,NA,NA,TRUE,"lat,deu,grc"
+urn:cts:greekLit:tlg2200.tlg00532.opp-grc1,chapter,Libanius,Declamatio 32,NA,NA,TRUE,"lat,deu,grc"
+urn:cts:greekLit:tlg2200.tlg00533.opp-grc1,chapter,Libanius,Declamatio 33,NA,NA,TRUE,"lat,deu,grc"
+urn:cts:greekLit:tlg2200.tlg00534.opp-grc1,"chapter,section",Libanius,Declamatio 34,NA,NA,TRUE,"grc,deu,lat"
+urn:cts:greekLit:tlg2200.tlg00535.opp-grc1,chapter,Libanius,Declamatio 35,NA,NA,TRUE,"grc,deu,lat"
+urn:cts:greekLit:tlg2200.tlg00536.opp-grc1,chapter,Libanius,Declamatio 36,NA,NA,TRUE,"grc,deu,lat"
+urn:cts:greekLit:tlg2200.tlg00537.opp-grc1,chapter,Libanius,Declamatio 37,NA,NA,TRUE,"lat,deu,grc"
+urn:cts:greekLit:tlg2200.tlg00538.opp-grc1,chapter,Libanius,Declamatio 38,NA,NA,TRUE,"lat,deu,grc"
+urn:cts:greekLit:tlg2200.tlg00539.opp-grc1,chapter,Libanius,Declamatio 39,NA,NA,TRUE,"lat,deu,grc"
+urn:cts:greekLit:tlg2200.tlg00540.opp-grc1,"chapter,section",Libanius,Declamatio 40,NA,NA,TRUE,"lat,deu,grc"
+urn:cts:greekLit:tlg2200.tlg00541.opp-grc1,chapter,Libanius,Declamatio 41,NA,NA,TRUE,"lat,deu,grc"
+urn:cts:greekLit:tlg2200.tlg00542.opp-grc1,chapter,Libanius,Declamatio 42,NA,NA,TRUE,"lat,deu,grc"
+urn:cts:greekLit:tlg2200.tlg00543.opp-grc1,"chapter,section",Libanius,Declamatio 43,NA,NA,TRUE,"lat,deu,grc"
+urn:cts:greekLit:tlg2200.tlg00544.opp-grc1,chapter,Libanius,Declamatio 44,NA,NA,TRUE,"lat,deu,grc"
+urn:cts:greekLit:tlg2200.tlg00545.opp-grc1,"chapter,section",Libanius,Declamatio 45,NA,NA,TRUE,"grc,deu,lat"
+urn:cts:greekLit:tlg2200.tlg00546.opp-grc1,"chapter,section",Libanius,Declamatio 46,NA,NA,TRUE,"grc,lat,deu"
+urn:cts:greekLit:tlg2200.tlg00547.opp-grc1,chapter,Libanius,Declamatio 47,NA,NA,TRUE,"lat,deu,grc"
+urn:cts:greekLit:tlg2200.tlg00548.opp-grc1,chapter,Libanius,Declamatio 48,NA,NA,TRUE,"lat,deu,grc"
+urn:cts:greekLit:tlg2200.tlg00549.opp-grc1,"chapter,section",Libanius,Declamatio 49,NA,NA,TRUE,"grc,deu,lat"
+urn:cts:greekLit:tlg2200.tlg00550.opp-grc1,chapter,Libanius,Declamatio 50,NA,NA,TRUE,"lat,deu,grc"
+urn:cts:greekLit:tlg2200.tlg00551.opp-grc1,chapter,Libanius,Declamatio 51,NA,NA,TRUE,"lat,deu,grc"
+urn:cts:greekLit:tlg2200.tlg008.opp-grc1,chapter,Libanius,Characteres Epistolici,NA,NA,TRUE,"lat,deu,grc"
+urn:cts:greekLit:tlg2233.tlg001.1st1K-grc1,"book,chapter",Pseudo-Polemon,Physiognomonica (Epitome Adamantiana),NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg2233.tlg002.1st1K-grc1,section,Pseudo-Polemon,Physiognomonica,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg2371.tlg001.opp-grc1,chapter,Chronicon Paschale,Chronicon Paschale,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg2583.tlg001.1st1K-grc1,"book,section,line","Manetho Astrologus, 4th. century CE",Apotelesmatica,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg2586.tlg001.1st1K-grc1,"book,chapter",Menander,Διαίρεσις τῶν ἐπιδεικτικῶν (olim sub auctore Genethlio),NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg2586.tlg002.1st1K-grc1,"chapter,paragraph",Menander,Περὶ ἐπιδεικτικῶν,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg2703.tlg001.opp-grc1,"book,chapter",Annae Comnenae,Alexias,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg2703.tlg001.opp-grc2,"book,chapter",Anna Comnena,Alexias,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg2703.tlg001.opp-lat1,"book,chapter",Anna Comnena,Alexias,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg2733.tlg001.1st1K-grc1,"book,chapter","Evagrius, Scholasticus",Historia Ecclesiastica,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg2768.tlg001.opp-grc1,"book,chapter,section",Gelasius,Historia Ecclesiastica,NA,NA,TRUE,"grc,lat,deu"
+urn:cts:greekLit:tlg2806.tlg001.1st1K-grc1,"book,paragraph",Marcus Diaconus,Vita Porphyrii episcopi Gazensis,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg2959.tlg001.opp-grc1,"book,chapter",Methodius,Symposium Sive Convivium Decem Virginum,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg2959.tlg002.opp-ger1,"chapter,section",Methodius,De libero arbitrio,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg2959.tlg002.opp-grc1,"chapter,section",Methodius,De Libero Arbitrio,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg2959.tlg003.opp-ger1,"book,chapter,section",NA,METHODIUS,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg2959.tlg004.opp-ger1,"chapter,section",Methodius,De lepra ad Sistelium,NA,NA,TRUE,deu
+urn:cts:greekLit:tlg2959.tlg005.opp-grc1,"chapter,section",Methodius,"De Creatis (Fragmenta Ap. Photium, Bibl. Cod. 235)",NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg2959.tlg006.opp-grc1,"chapter,section",Methodius,Adversus Porphyrium (Fragmenta),NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg2959.tlg007.opp-grc1,fragment,Methodius,Fragmenta In Job (In Catenis),NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg2959.tlg008.opp-grc1,fragment,Methodius,De Martyribus (Fragmenta),NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg2959.tlg010.opp-grc1,fragment,Methodius,Fragmenta Incerta [Sp.],NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg2959.tlg011.opp-ger1,"chapter,section",Methodius,In Genesim (In Catenis),NA,NA,TRUE,deu
+urn:cts:greekLit:tlg2959.tlg012.opp-ger1,"chapter,section",Methodius,Sermo De Simeone Et Anna [Sp.],NA,NA,TRUE,"grc,deu"
+urn:cts:greekLit:tlg3118.tlg001.1st1K-grc1,"book,paragraph",Syntipas,Ιστορικον Συντιπα του Φιλοσοφου Ωραιοτατον Πανυ,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg3118.tlg002.1st1K-grc1,paragraph,Syntipas,Narrationes de Syntipa,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg3129.ogl001.1st1K-grc1,paragraph,Theophylacti,In Cyrilli In XII Prophetas,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg3135.tlg001.opp-grc1,"book,chapter",Joannes Zonaras,Epitome historiarum (lib. 1‑18),NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg3135.tlg004.opp-grc1,"book,chapter",Joannes Zonaras,Argumenta,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg3135.tlg005.opp-grc1,section,Joannes Zonaras,Chronologia,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg3156.tlg001.1st1K-grc1,section,Anonymi Exegesis in Hesiodi Theogoniam,Exegesis in Hesiodi theogoniam,NA,NA,TRUE,"grc,lat,deu"
+urn:cts:greekLit:tlg4003.tlg001.1st1K-grc1,"book,section,paragraph",Marcianus of Heraclea,Periplus Maris Exteri,NA,NA,TRUE,"grc,lat,deu"
+urn:cts:greekLit:tlg4003.tlg002.1st1K-grc1,"section,section,paragraph",Marcianus of Heraclea,Menippi periplus maris interni (epitome Marciani),NA,NA,TRUE,"grc,lat,deu"
+urn:cts:greekLit:tlg4003.tlg003.1st1K-grc1,"book,section,paragraph",Marcianus of Heraclea,Artemidori Geographia (Epitome Marciani),NA,NA,TRUE,"grc,lat,deu"
+urn:cts:greekLit:tlg4013.tlg001.opp-grc1,chapter,Simplicius,In Aristotelis quattuor libros de caelo commentaria,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg4013.tlg003.opp-grc1,chapter,Simplicius,In Aristotelis Categorias Commentarium,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg4013.tlg004.opp-grc1,chapter,Simplicius,In Aristotelis physicorum libros commentaria,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg4013.tlg005.opp-grc1,chapter,Simplicius,In Aristotelis libros de anima commentaria [Sp.?] (fort. auctore Prisciano Lydo),NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg4015.tlg001.opp-grc1,chapter,Joannes Philoponus,In Aristotelis Categorias Commentarium,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg4015.tlg002.opp-grc1,chapter,Joannes Philoponus,in Aristotelis Analytica Priora commentaria,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg4015.tlg004.opp-grc1,chapter,Joannes Philoponus,In Aristotelis Analytica Posteriora Commentaria,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg4015.tlg005.opp-grc1,"book,section",Joannes Philoponus,in Aristotetelis Meteorologicorum librum primum commentarium,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg4015.tlg006.opp-grc1,chapter,Joannes Philoponus,In Aristotelis Libros De Generatione Et Corruptione Commentaria,NA,NA,TRUE,"grc,lat,ita"
+urn:cts:greekLit:tlg4015.tlg007.opp-grc1,chapter,Joannes Philoponus,In Libros De Generatione Animalium Commentaria,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg4015.tlg008.opp-grc1,chapter,Joannes Philoponus,in Aristotelis de Anima libros commentaria,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg4015.tlg009.opp-grc1,chapter,Joannes Philoponus,In Aristotelis Physicorum Libros Commentaria,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg4016.tlg001.opp-grc2,"book,section",Ammonius,In Porphyrii Isagogen Sive Quinque Voces,NA,NA,TRUE,"grc,lat,deu"
+urn:cts:greekLit:tlg4016.tlg002.opp-grc2,"book,chapter,section",Ammonius,In Aristotelis Categorias Commentarius,NA,NA,TRUE,"grc,lat,deu"
+urn:cts:greekLit:tlg4016.tlg003.opp-grc2,chapter,Ammonius,In Aristotelis Librum De Interpretatione Commentarius,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg4016.tlg004.opp-grc2,chapter,Ammonius,In Aristotelis Analyticorum Priorum Librum I Commentarium,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg4017.tlg001.opp-grc1,chapter,Syrianus,In Aristotelis Metaphysica Commentaria,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg4018.tlg001.opp-grc2,chapter,Asclepius,In Aristotelis Metaphysicorum Libros A-Z Commentaria,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg4019.tlg001.opp-grc1,chapter,Olympiodorus,Prolegomena,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg4019.tlg002.opp-grc1,chapter,Olympiodorus,In Categorias Commentarium,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg4019.tlg003.opp-grc1,chapter,Olympiodorus,In Aristotelis meteora commentaria,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg4020.tlg001.opp-grc1,chapter,Elias,In Porphyrii isagogen,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg4020.tlg002.opp-grc1,chapter,Elias,Eliae (olim Davidis) in Aristotelis categorias commentarium,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg4021.tlg001.opp-grc1,chapter,David the Invincible,Prolegomena philosophiae,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg4021.tlg002.opp-grc1,chapter,David the Invincible,In Porphyrii isagogen commentarium,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg4024.tlg001.opp-grc2,"book,chapter",Agathias Scholasticus,Historiae,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg4024.tlg001.opp-lat1,"book,chapter",Agathias Scholasticus,Historiae,NA,NA,TRUE,lat
+urn:cts:greekLit:tlg4024.tlg002.opp-grc12,section,Agathias Scholasticus,Epigrammata,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg4027.tlg001.opp-grc1,chapter,Anonymi in Aristotelis Categorias,Paraphrasis categoriarum,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg4030.tlg001.opp-grc1,"chapter,section",Sophonias,In Aristotelis Libros De Anima Paraphrasis,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg4031.tlg002.opp-grc1,chapter,Eustratius,In Aristotelis Ethica Nicomachea I Commentaria,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg4033.tlg003.opp-grc1,chapter,Anonymi In Aristotelis Ethica Nicomachea,In ethica Nicomachea paraphrasis,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg4034.tlg002.opp-grc1,chapter,Michael Ephesius,In parva naturalia commentaria,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg4034.tlg003.opp-grc1,chapter,Michaelis Ephesius,In libros de partibus animalium,NA,NA,TRUE,"grc,lat,deu,fre"
+urn:cts:greekLit:tlg4034.tlg004.opp-grc1,chapter,Michaelis Ephesius,In Librum De Animalium Motione Commentarium,NA,NA,TRUE,"grc,lat,deu,French"
+urn:cts:greekLit:tlg4034.tlg005.opp-grc1,chapter,Michaelis Ephesius,In Librum De Animalium Incessu Commentarium,NA,NA,TRUE,"grc,lat,deu,French"
+urn:cts:greekLit:tlg4034.tlg006.opp-grc1,chapter,Michael Ephesius,In Librum Quintum Ethicorum Nicomacheorum Commentarium,NA,NA,TRUE,"grc,lat,deu"
+urn:cts:greekLit:tlg4036.tlg001.opp-grc1,chapter,Proclus Diadochus,In Platonis Rem Publicam Commentarii,NA,NA,TRUE,"grc,lat,deu"
+urn:cts:greekLit:tlg4072.tlg001.1st1K-grc1,section,Eutocius,Commentarii in libros de sphaera et cylindro,NA,NA,TRUE,"grc,lat,fre"
+urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1,"section,paragraph",Eutocius,Commentarius in dimensionem circuli,NA,NA,TRUE,"grc,lat,fre"
+urn:cts:greekLit:tlg4072.tlg003.1st1K-grc1,"chapter,section",Eutocius,Commentarius in libros de planorum aequilibriis,NA,NA,TRUE,"grc,lat,fre"
+urn:cts:greekLit:tlg4075.tlg002.1st1K-grc1,work,Marinus,Commentarium in Euclidis data,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg4084.tlg001.opp-grc1,"book,chapter,section",Zosimus,Historia Nova,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg4089.tlg003.1st1K-grc1,"book,chapter","Theodoret, Bishop of Cyrus",Historia Ecclesiastica,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg4089.tlg003.opp-grc1,"book,chapter,section",Theodoretus,Historia ecclesiastica,NA,NA,TRUE,"grc,lat,deu,fre"
+urn:cts:greekLit:tlg4089.tlg004.1st1K-grc1,chapter,"Theodoret, Bishop of Cyrus",Historia Religiosa,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg4090.tlg001.1st1K-grc1,"commentary,book,paragraph",Cyrillus Alexandrinus,In XII Prophetas,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg4090.tlg001.1st1K-lat1,paragraph,Cyrillus Archiepiscopus Alexandrinus,Preface In XII Prophetas,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg4090.tlg001.1st1K-lat2,paragraph,Philip Edward Pusey,Citatorum In Cyrilli In XII Prophetas,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg4090.tlg001.1st1K-lat3,paragraph,Philip Edward Pusey,Index In Cyrilli In XII Prophetas,NA,NA,TRUE,lat
+urn:cts:greekLit:tlg4102.tlg001.opp-grc1,chapter,Catenae (Novum Testamentum),Catena In Matthaeum,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg4102.tlg002.opp-grc1,chapter,Catenae (Novum Testamentum),Catena In Marcum,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg4102.tlg003.opp-grc1,"section,page,line",Catenae (Novum Testamentum),Supplementum et varietas lectionis ad commentarium Chrysostomi in evangelium sancti Matthaei,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg4102.tlg004.opp-grc1,chapter,Catenae (Novum Testamentum),Catena In Lucam,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg4102.tlg005.opp-grc1,chapter,Catenae (Novum Testamentum),Catena In Joannem,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg4102.tlg006.opp-grc1,"section,page,line",Catenae (Novum Testamentum),Supplementum Et Varietas Lectionis Ad Catenam In Evangelium sancti Lucae,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg4102.tlg007.opp-grc1,"section,page,line",Catenae (Novum Testamentum),Supplementum Et Varietas Lectionis Ad Catenam In Evangelium,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg4102.tlg008.opp-grc1,chapter,Catenae (Novum Testamentum),Catena In Acta,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg4102.tlg010.opp-grc1,chapter,Catenae (Novum Testamentum),Catena In Epistulam Ad Romanos (typus Vaticanus),NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg4102.tlg011.opp-grc1,"chapter,verse,author",Catenae (Novum Testamentum),Catena In Epistulam Ad Romanos (typus Monacensis),NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg4102.tlg012.opp-grc1,chapter,Catenae (Novum Testamentum),Catena In Epistulam I Ad Corinthios,NA,NA,TRUE,"grc,grc"
+urn:cts:greekLit:tlg4102.tlg013.opp-grc1,chapter,Catenae (Novum Testamentum),Catena In Epistulam II Ad Corinthios,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg4102.tlg019.opp-grc1,chapter,Catenae (Novum Testamentum),Catena In Epistulam Ad Galatas,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg4102.tlg020.opp-grc1,chapter,Catenae (Novum Testamentum),Catena In Epistulam Ad Ephesios,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg4102.tlg021.opp-grc1,chapter,Catenae (Novum Testamentum),Catena In Epistulam Ad Philippenses,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg4102.tlg022.opp-grc1,chapter,Catenae (Novum Testamentum),Catena In Epistulam Ad Colossenses,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg4102.tlg023.opp-grc1,chapter,Catenae (Novum Testamentum),Catena In Epistulam I Ad Thessalonicenses,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg4102.tlg024.opp-grc1,chapter,Catenae (Novum Testamentum),Catena In Epistulam II Ad Thessalonicenses,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg4102.tlg034.opp-grc1,chapter,>Catenae (Novum Testamentum),Catena In Epistulam I Ad Timotheum,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg4102.tlg035.opp-grc1,chapter,Catenae (Novum Testamentum),Catena In Epistulam II Ad Timotheum,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg4102.tlg036.opp-grc1,chapter,Catenae (Novum Testamentum),Catena In Epistulam Ad Titum,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg4102.tlg037.opp-grc1,chapter,Catenae (Novum Testamentum),Catena In Epistulam Ad Philemonem,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg4102.tlg038.opp-grc1,chapter,Catenae (Novum Testamentum),Catena In Epistulam Ad Hebraeos,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg4102.tlg040.opp-grc1,chapter,Catenae (Novum Testamentum),Catena In Epistulam Jacobi,NA,NA,TRUE,grc
+urn:cts:greekLit:tlg4102.tlg041.opp-grc1,chapter,Catenae (Novum Testamentum),Catena In Epistulam Petri I,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg4102.tlg042.opp-grc1,chapter,Catenae (Novum Testamentum),Catena In Epistulam Petri II,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg4102.tlg043.opp-grc1,chapter,Catenae (Novum Testamentum),Catena In Epistulam Joannis I,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg4102.tlg044.opp-grc1,chapter,Catenae (Novum Testamentum),Catena In Epistulam Joannis II,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg4102.tlg045.opp-grc1,chapter,Catenae (Novum Testamentum),Catena In Epistulam Joannis III,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg4102.tlg046.opp-grc1,"chapter,verse",Catenae (Novum Testamentum),Catena In Epistulam Juda,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg4102.tlgX01.opp-grc1,chapter,Catenae (Novum Testamentum),Prooemium Pseudo-Oecumenii In Apocalypsin Commentarii,NA,NA,TRUE,grc
+urn:cts:greekLit:tlg4102.tlgX02.opp-grc1,chapter,Catenae (Novum Testamentum),Commentarius In Apocalypsin,NA,NA,TRUE,grc
+urn:cts:greekLit:tlg4102.tlgX03.opp-grc1,"book,chapter",Catenae (Novum Testamentum),Commentarius In Apocalypsin,NA,NA,TRUE,grc
+urn:cts:greekLit:tlg4170.tlg001a.1st1K-grc1,chapter,Vitae Pindari et varia de Pindaro,Vita Ambrosiana,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg4170.tlg001b.1st1K-grc1,chapter,Vitae Pindari et varia de Pindaro,Vita Thomana et hypothesis Olympiorum,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg4170.tlg001c.1st1K-grc1,chapter,Vitae Pindari et varia de Pindaro,Vita metrica,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg4170.tlg001d.1st1K-grc1,chapter,Vitae Pindari et varia de Pindaro,Pentathlon et de novem lyricis,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg4174.tlg001.1st1K-grc1,section,Anonymous,In Dionysii periegetae orbis descriptionem,NA,NA,TRUE,"grc,lat,deu"
+urn:cts:greekLit:tlg4193.tlg012.opp-grc1,chapter,Anonymi in Aristotelis Sophisticos Elenchos,In Aristotelis sophisticos elenchos paraphrasis,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg5019.tlg001.1st1K-grc1,section,Anonymous,Scholia in Dionysium Periegetam,NA,NA,TRUE,"grc,lat,deu"
+urn:cts:greekLit:tlg5022.tlg002.1st1K-grc1,"book,section",Scholia in Euclidem,Scholia in Euclidis Data,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg5022.tlg003.1st1K-grc1,section,Scholia in Euclidem,Scholia in Euclidis optica (scholia vetera),NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg5022.tlg004.1st1K-grc1,section,Scholia in Euclidem,Scholia in opticorum recensionem Theonis (scholia                     vetera),NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg5022.tlg005.1st1K-grc1,section,Scholia in Euclidem,Scholia in Euclidis catoptrica (scholia vetera),NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg5022.tlg006.1st1K-grc1,"chapter,section",Scholia in Euclidem,Scholia in Euclidis phaenomena (scholia vetera),NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg5022.tlg007.1st1K-grc1,work,Scholia in Euclidem,Scholia in Euclidis data et catoptrica (scholia vetera),NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg5023.tlg010.1st1K-grc1,chapter,Scholia Euripidem,Vitae Euripidis,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg5023.tlg011.1st1K-grc1,"chapter,section",Scholia Euripidem,Scholia in Euripidis Rhesum,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg5023.tlg012.1st1K-grc1,"chapter,section",Scholia Euripidem,Scholia in Euripidis Troiades,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg5023.tlg013.1st1K-grc1,"chapter,section",Scholia Euripidem,Scholia in Euripidis Hippolytum,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg5023.tlg014.1st1K-grc1,"chapter,section",Scholia Euripidem,"Scholia in Euripidis Hecubam (scholia vetera et scholia                     recentiora Thomae Magistri, Triclinii, Moschopuli et anonyma)",NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg5026.tlg001.1st1K-grc1,"volume,book,section",Scholia in Homerum,Scholia in Iliadum,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg5026.tlg007.First1K-grc1,"volume,epigraph|book,section",Scholia in Homerum,Scholia in Odysseam,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg5034.tlg001a.perseus-grc1,"poem,line",Pindar Scholia,Scholia in Pindarum Olympian Odes,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg5034.tlg001b.perseus-grc1,"poem,line",Pindar Scholia,Scholia in Pindarum Pythian Odes,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg5034.tlg001c.perseus-grc1,"poem,line",Pindar Scholia,Scholia in Pindarum Nemean Odes,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg5034.tlg001d.perseus-grc1,"poem,line",Pindar Scholia,Scholia in Pindarum Isthmian Odes,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg5037.tlg004.1st1K-grc1,"book,section",Scholia in Sophoclem,Scholia in Sophoclem (scholia vetera),NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg9004.tlg001.opp-grc1,chapter,Anonymi In Aristotelis Librum Alterum Analyticorum Posteriorum,Anonymi in analyticorum posteriorum librum alterum commentarium,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg9006.tlg011.opp-grc1,chapter,NA,Libanius Opera,NA,NA,TRUE,lat
+urn:cts:greekLit:tlg9010.tlg001.1st1K-grc1,"book,chapter,section",Suda,Suidae lexicon,NA,NA,TRUE,"grc,lat"
+urn:cts:greekLit:tlg9019.tlg001.opp-grc1,chapter,Stephanus of Alexandria,In Aristotelis librum de interpretatione commentarium,NA,NA,TRUE,"grc,lat"
