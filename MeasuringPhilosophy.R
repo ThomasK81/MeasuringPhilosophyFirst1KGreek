@@ -561,36 +561,6 @@ topicCorpus2 <- topicCorpus %>%
          Genre = map_chr(topicCorpus$AuthorID, getGenre),
          Philosophy = ifelse(Genre == "philosophy", "true", "false")) 
 
-# can go?
-topicCorpus2 %>%
-  mutate(Above = ifelse(Topic13_29 + Topic24_39 < 0 & Genre != "philosophy", "true", "false")) %>%
-  ggplot(aes(x=Topic13_29,y=Topic24_39)) +
-  geom_hline(yintercept=0, linetype = 3) +
-  geom_vline(xintercept=0, linetype = 3) +
-  geom_point(aes(color = Philosophy, alpha = Above), show.legend = F) +
-  stat_function(fun = fun.1, linetype="dashed", color = "orange") +
-  labs(title = '"Philosophicalness" Scores of over 200,000 Documents', x = '"Scientific Inquiry" Score', y = '"Good & Virtue" Score') +
-  theme_bw() + 
-  theme(text=element_text(family="Times New Roman"),
-        legend.background = element_rect(linetype = "solid", colour = "black"),
-        legend.justification = c("right", "bottom"),
-        legend.box.just = "right",
-        legend.margin = margin(6, 6, 6, 6),
-        panel.border = element_blank(), 
-        panel.grid.major = element_blank(),
-        panel.grid.minor = element_blank(), 
-        # axis.line = element_line(colour = "black"),
-        axis.line = element_blank(),
-        # axis.text = element_blank(),
-        axis.text = element_text(size=12),
-        # axis.text.y = element_text(size=14, color = "black"),
-        axis.title.y = element_text(size = 14),
-        axis.title.x = element_text(size = 14),
-        plot.title = element_text(size = 18)) +
-  scale_color_manual(values = c("true" = "blue", "false" = "red")) +
-  scale_alpha_manual(values = c("true" = 1, "false" = 0)) +
-  scale_y_continuous(expand = c(0.02,0.02))
-
 # uncorrelated? ####
 topicCorpus %>% 
   select(AuthorID, Topic0029, Topic0039) %>% 
@@ -711,44 +681,6 @@ authorMap <- map_chr(topicCorpus$AuthorID, getAuthor)
 philosopherMap <- tibble(id = topicCorpus$AuthorID, name = authorMap)
 
 genresNames <- unique(genremap$mainGenre)
-
-topicCorpus %>% 
-  mutate(Topic13_29 = ifelse(Topic0013_mean / mean13 >= Topic0029_mean / mean29, log2(Topic0013_mean / mean13), log2(Topic0029_mean / mean29))) %>% 
-  mutate(Topic24_39 = ifelse(Topic0039_mean / mean39 >= Topic0024_mean / mean24, log2(Topic0039_mean / mean39), log2(Topic0024_mean / mean24))) %>% 
-  select(AuthorID, Topic13_29, Topic24_39, MeanWordCount_mean, NodeCount) %>% 
-  mutate(AuthorID = map_chr(topicCorpus$AuthorID, getName)) %>%
-  mutate(Genre = map_chr(topicCorpus$AuthorID, getGenre)) %>%
-  mutate(Philosophy = ifelse(Genre == "philosophy", T, F)) %>%
-  mutate(Label = ifelse(Genre == "philosophy", AuthorID, "")) %>%
-  # mutate(Label = ifelse((Topic13_29 > 1 | Topic24_39 > 1), AuthorID, "")) %>%
-  # filter(Philosopher == TRUE) %>%
-  ggplot(aes(x=Topic13_29,y=Topic24_39)) +
-  geom_abline(slope = -1) +
-  geom_hline(yintercept=0, linetype = 3) +
-  geom_vline(xintercept=0, linetype = 3) +
-  geom_point(aes(shape = Philosophy, color = Philosophy), size = 2) +
-  geom_label_repel(aes(label = Label)) +
-  labs(title = 'Authors\' "Philosophicalness" Scores', x = '"Scientific Inquiry" Score', y = '"Good & Virtue" Score') +
-  theme_bw() + 
-  theme(text=element_text(family="serif"),
-        legend.background = element_rect(linetype = "solid", colour = "black"),
-        legend.justification = c("right", "bottom"),
-        legend.box.just = "right",
-        legend.margin = margin(6, 6, 6, 6),
-        panel.border = element_blank(), 
-        panel.grid.major = element_blank(),
-        panel.grid.minor = element_blank(), 
-        # axis.line = element_line(colour = "black"),
-        axis.line = element_blank(),
-        # axis.text = element_blank(),
-        axis.text = element_text(size=12),
-        # axis.text.y = element_text(size=14, color = "black"),
-        axis.title.y = element_text(size = 14),
-        axis.title.x = element_text(size = 14),
-        plot.title = element_text(size = 18)) +
-  scale_y_continuous(expand = c(0.02,0.02))
-
-ggsave("philScorePlots/philscorelabels.png", scale = 1.5)
 
 # Plato and Arisdtotle with Topic 9 ####
 
@@ -1149,7 +1081,48 @@ pdf("testresults.pdf", height = 11, width = 8.5, paper = "a4")
 grid.draw(tg_results)
 dev.off()
 
-# philScore Corpus ####
+# philScore Plots ####
+
+topicCorpus %>% 
+  mutate(Topic13_29 = ifelse(Topic0013_mean / mean13 >= Topic0029_mean / mean29, log2(Topic0013_mean / mean13), log2(Topic0029_mean / mean29))) %>% 
+  mutate(Topic24_39 = ifelse(Topic0039_mean / mean39 >= Topic0024_mean / mean24, log2(Topic0039_mean / mean39), log2(Topic0024_mean / mean24))) %>% 
+  select(AuthorID, Topic13_29, Topic24_39, MeanWordCount_mean, NodeCount) %>% 
+  mutate(AuthorID = map_chr(topicCorpus$AuthorID, getName)) %>%
+  mutate(Genre = map_chr(topicCorpus$AuthorID, getGenre)) %>%
+  mutate(Philosophy = ifelse(Genre == "philosophy", T, F)) %>%
+  mutate(Label = ifelse(Genre == "philosophy", AuthorID, "")) %>%
+  # mutate(Label = ifelse((Topic13_29 > 1 | Topic24_39 > 1), AuthorID, "")) %>%
+  # filter(Philosopher == TRUE) %>%
+  ggplot(aes(x=Topic13_29,y=Topic24_39)) +
+  geom_abline(slope = -1) +
+  geom_hline(yintercept=0, linetype = 3) +
+  geom_vline(xintercept=0, linetype = 3) +
+  geom_point(aes(shape = Philosophy, color = Philosophy), size = 2) +
+  geom_label_repel(aes(label = Label)) +
+  labs(title = 'Authors\' "Philosophicalness" Scores', x = '"Scientific Inquiry" Score', y = '"Good & Virtue" Score') +
+  theme_bw() + 
+  theme(text=element_text(family="serif"),
+        legend.background = element_rect(linetype = "solid", colour = "black"),
+        legend.justification = c("right", "bottom"),
+        legend.box.just = "right",
+        legend.margin = margin(6, 6, 6, 6),
+        panel.border = element_blank(), 
+        panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank(), 
+        # axis.line = element_line(colour = "black"),
+        axis.line = element_blank(),
+        # axis.text = element_blank(),
+        axis.text = element_text(size=12),
+        # axis.text.y = element_text(size=14, color = "black"),
+        axis.title.y = element_text(size = 14),
+        axis.title.x = element_text(size = 14),
+        plot.title = element_text(size = 18)) +
+  scale_y_continuous(expand = c(0.02,0.02))
+
+ggsave("philScorePlots/philscorelabels.png", scale = 1.5)
+
+
+# philScore Passage ####
 
 p <- topicCorpus2 %>% 
   mutate(PhilScore = Topic13_29 + Topic24_39) %>%
@@ -1165,7 +1138,30 @@ p <- topicCorpus2 %>%
     panel.grid.minor = element_blank(),
     panel.background = element_blank()) +
   coord_flip() 
-ggsave(plot = p, filename = "philScorePassage.png")
+ggsave(plot = p, filename = "philScorePlots/philScorePassage.png")
+
+topicCorpus %>% 
+  mutate(Topic13_29 = ifelse(Topic0013_mean / mean13 >= Topic0029_mean / mean29, log2(Topic0013_mean / mean13), log2(Topic0029_mean / mean29))) %>% 
+  mutate(Topic24_39 = ifelse(Topic0039_mean / mean39 >= Topic0024_mean / mean24, log2(Topic0039_mean / mean39), log2(Topic0024_mean / mean24))) %>% 
+  select(AuthorID, Topic13_29, Topic24_39, MeanWordCount_mean, NodeCount) %>% 
+  mutate(AuthorID = map_chr(topicCorpus$AuthorID, getName)) %>%
+  mutate(Genre = map_chr(topicCorpus$AuthorID, getGenre)) %>%
+  mutate(Philosophy = ifelse(Genre == "philosophy", T, F)) %>%
+  mutate(Label = ifelse(Genre == "philosophy", AuthorID, "")) %>%
+  mutate(PhilScore = Topic13_29 + Topic24_39) %>%
+  ggplot(aes(Genre, PhilScore)) + 
+  geom_boxplot(aes(col = Genre), show.legend = F) + 
+  geom_hline(yintercept=0, linetype = 3) +
+  scale_x_discrete(drop=FALSE) +
+  scale_color_manual(values = genreCol) +
+  theme(
+    text=element_text(family="serif"),
+    panel.border = element_blank(), 
+    panel.grid.major = element_blank(),
+    panel.grid.minor = element_blank(),
+    panel.background = element_blank()) +
+  coord_flip() 
+ggsave(filename = "philScorePlots/philScoreWG.png")
 
 # Top100 Passage ####
 
@@ -1183,7 +1179,7 @@ p <- topicCorpus2 %>%
     panel.grid.minor = element_blank(),
     panel.background = element_blank()) +
   coord_flip()
-ggsave(plot = p, filename = "philScore100.png")
+ggsave(plot = p, filename = "philScorePlots/philScore100.png")
 
 # Top200 Passage ####
 
@@ -1201,7 +1197,206 @@ p <- topicCorpus2 %>%
     panel.grid.minor = element_blank(),
     panel.background = element_blank()) +
   coord_flip()
-ggsave(plot = p, filename = "philScore200.png")
+ggsave(plot = p, filename = "philScorePlots/philScore200.png")
 
-  
+# no philosophy philosophy ####
+
+topicCorpus %>% 
+  mutate(Topic13_29 = ifelse(Topic0013_mean / mean13 >= Topic0029_mean / mean29, log2(Topic0013_mean / mean13), log2(Topic0029_mean / mean29))) %>% 
+  mutate(Topic24_39 = ifelse(Topic0039_mean / mean39 >= Topic0024_mean / mean24, log2(Topic0039_mean / mean39), log2(Topic0024_mean / mean24))) %>% 
+  select(AuthorID, Topic13_29, Topic24_39, MeanWordCount_mean, NodeCount) %>% 
+  mutate(philscore = Topic13_29 + Topic24_39) %>%
+  mutate(AuthorID = map_chr(topicCorpus$AuthorID, getName)) %>%
+  mutate(Genre = map_chr(topicCorpus$AuthorID, getGenre)) %>%
+  mutate(Philosophy = ifelse(Genre == "philosophy", T, F)) %>%
+  mutate(Label = ifelse(Genre != "philosophy" & philscore > 0, AuthorID, "")) %>%
+  mutate(Genre = ifelse(Genre %in% c("unknown", "philosophy") | philscore <= 0, "excluded", Genre)) %>%
+  # mutate(Label = "") %>%
+  ggplot(aes(x=Topic13_29,y=Topic24_39)) +
+  geom_abline(slope = -1) +
+  geom_hline(yintercept=0, linetype = 3) +
+  geom_vline(xintercept=0, linetype = 3) +
+  geom_point(aes(color = Genre), size = 2) +
+  # geom_label_repel(aes(label = Label)) +
+  labs(title = 'Authors\' "Philosophicalness" Scores', x = '"Scientific Inquiry" Score', y = '"Good & Virtue" Score') +
+  scale_color_manual(values = genreCol) +
+  theme_bw() + 
+  theme(text=element_text(family="serif"),
+        legend.background = element_rect(linetype = "solid", colour = "black"),
+        legend.justification = c("right", "bottom"),
+        legend.box.just = "right",
+        legend.margin = margin(6, 6, 6, 6),
+        panel.border = element_blank(), 
+        panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank(), 
+        # axis.line = element_line(colour = "black"),
+        axis.line = element_blank(),
+        # axis.text = element_blank(),
+        axis.text = element_text(size=12),
+        # axis.text.y = element_text(size=14, color = "black"),
+        axis.title.y = element_text(size = 14),
+        axis.title.x = element_text(size = 14),
+        plot.title = element_text(size = 18)) +
+  scale_y_continuous(expand = c(0.02,0.02))
+
+ggsave("philScorePlots/philscorelabelsNoPhil.png", scale = 1)
+
+# Works example ####
+
+topicCorpus3 <- corpus %>%
+  mutate(WordCount = unname(sapply((corpus %>% pull(text)), function(x){str_count(x, "\\S+")}))) %>%
+  select(-(X1:text)) %>%
+  select(AuthorID, WorkID, WordCount, everything())
+colnames(topicCorpus3) <- c("AuthorID", "WorkID", "MeanWordCount", names(topicColors)[-which(names(topicColors) == "remainder")])
+
+# for (i in names(topicColors)[-which(names(topicColors) == "remainder")]) {
+#   index <- which(colnames(topicCorpus3) == i)
+#  topicCorpus3 <- topicCorpus3 %>% mutate(!!i :=  topicCorpus3[,index] %>% pull / MeanWordCount)
+#}
+
+# topicCorpus3 <- topicCorpus3 %>% select(-MeanWordCount)
+
+topicCorpus3 <- topicCorpus3 %>%
+  group_by(AuthorID, WorkID) %>%
+  summarise_all(funs(n(), mean, sum)) %>%
+  mutate(NodeCount = Topic0001_n, WordCount = MeanWordCount_sum) %>%
+  select(-ends_with("_n"))
+
+topicCorpus3 <- topicCorpus3 %>% 
+  select(AuthorID, WorkID, NodeCount, WordCount, everything()) %>%
+  ungroup
+
+topicCorpus3 %>% 
+  mutate(Topic13_29 = ifelse(Topic0013_mean / mean13 >= Topic0029_mean / mean29, log2(Topic0013_mean / mean13), log2(Topic0029_mean / mean29))) %>% 
+  mutate(Topic24_39 = ifelse(Topic0039_mean / mean39 >= Topic0024_mean / mean24, log2(Topic0039_mean / mean39), log2(Topic0024_mean / mean24))) %>% 
+  select(AuthorID, Topic13_29, Topic24_39, NodeCount, WorkID) %>% 
+  mutate(AuthorID = map_chr(topicCorpus3$AuthorID, getName)) %>%
+  filter(AuthorID %in% c("Plato")) %>%
+  ggplot(aes(x=Topic13_29,y=Topic24_39)) +
+  geom_abline(slope = -1) +
+  geom_hline(yintercept=0, linetype = 3) +
+  geom_vline(xintercept=0, linetype = 3) +
+  geom_point(size = 2) +
+  geom_label_repel(aes(label = WorkID)) +
+  labs(title = 'Authors\' "Philosophicalness" Scores', x = '"Scientific Inquiry" Score', y = '"Good & Virtue" Score') +
+  theme_bw() + 
+  theme(text=element_text(family="serif"),
+        legend.background = element_rect(linetype = "solid", colour = "black"),
+        legend.justification = c("right", "bottom"),
+        legend.box.just = "right",
+        legend.margin = margin(6, 6, 6, 6),
+        panel.border = element_blank(), 
+        panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank(), 
+        # axis.line = element_line(colour = "black"),
+        axis.line = element_blank(),
+        # axis.text = element_blank(),
+        axis.text = element_text(size=12),
+        # axis.text.y = element_text(size=14, color = "black"),
+        axis.title.y = element_text(size = 14),
+        axis.title.x = element_text(size = 14),
+        plot.title = element_text(size = 18)) +
+  scale_y_continuous(expand = c(0.02,0.02))
+
+ggsave("philScorePlots/PlatoWorks.png", scale = 2)
+
+# read meta ####
+worksmeta <- read_csv("metadata//WorksMetadata.csv")
+simpleCap <- function(x) {
+  s <- strsplit(x, " ")[[1]]
+  paste(toupper(substring(s, 1,1)), substring(s, 2),
+        sep="", collapse=" ")
+}
+
+worksmeta <- worksmeta %>% 
+  mutate(OCDWork = map_chr(OCDWork, simpleCap),
+         OCDAuthor = map_chr(OCDAuthor, simpleCap))
+
+worksmeta <- worksmeta %>%
+  mutate(OCDWork = gsub(" ", "", worksmeta$OCDWork),
+         OCDAuthor = gsub(" ", "", worksmeta$OCDAuthor),
+         ShortTitle = paste(OCDAuthor, OCDWork, sep = "_"))
+
+pullShortTitle <- function(x) {
+  search <- strsplit(x, ".", fixed = T) %>% unlist
+  search <- paste(search[1:2],collapse = "_")
+  result <- worksmeta %>% filter(ShortID == search) %>% pull(ShortTitle)
+  if (length(result) == 0) {
+    x
+  } else {gsub("_", "", result, fixed = T)}
+}
+
+topicCorpus3 %>% 
+  mutate(Topic13_29 = ifelse(Topic0013_mean / mean13 >= Topic0029_mean / mean29, log2(Topic0013_mean / mean13), log2(Topic0029_mean / mean29))) %>% 
+  mutate(Topic24_39 = ifelse(Topic0039_mean / mean39 >= Topic0024_mean / mean24, log2(Topic0039_mean / mean39), log2(Topic0024_mean / mean24))) %>% 
+  select(AuthorID, Topic13_29, Topic24_39, NodeCount, WorkID, WordCount) %>% 
+  mutate(AuthorID = map_chr(AuthorID, getName)) %>%
+  mutate(WorkID = map_chr(WorkID, pullShortTitle)) %>%
+  mutate(PhilScore = Topic13_29 + Topic24_39) %>%
+  filter(AuthorID %in% c("Plato")) %>%
+  ggplot(aes(x=Topic13_29,y=Topic24_39)) +
+  geom_abline(slope = -1) +
+  geom_hline(yintercept=0, linetype = 3) +
+  geom_vline(xintercept=0, linetype = 3) +
+  geom_point(aes(size = WordCount, col=PhilScore)) +
+  geom_label_repel(aes(label = WorkID)) +
+  labs(title = 'Authors\' "Philosophicalness" Scores', x = '"Scientific Inquiry" Score', y = '"Good & Virtue" Score') +
+  theme_bw() + 
+  theme(text=element_text(family="serif"),
+        legend.background = element_rect(linetype = "solid", colour = "black"),
+        legend.justification = c("right", "bottom"),
+        legend.box.just = "right",
+        legend.margin = margin(6, 6, 6, 6),
+        panel.border = element_blank(), 
+        panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank(), 
+        # axis.line = element_line(colour = "black"),
+        axis.line = element_blank(),
+        # axis.text = element_blank(),
+        axis.text = element_text(size=12),
+        # axis.text.y = element_text(size=14, color = "black"),
+        axis.title.y = element_text(size = 14),
+        axis.title.x = element_text(size = 14),
+        plot.title = element_text(size = 18)) +
+  scale_color_viridis_c() +
+  scale_y_continuous(expand = c(0.02,0.02)) +
+  coord_cartesian(xlim = c(-6,6), ylim = c(-5,5))
+
+ggsave("philScorePlots/PlatoWorksTitle.png", scale = 1.5)
+
+# tsne vis ####
+
+library(Rtsne)
+normalisedMatrix <- topicCorpus %>% 
+  select(AuthorID, ends_with("mean")) %>% 
+  select(-c(1:2)) 
+
+datamatrix <- as.matrix(normalisedMatrix)
+rownames(datamatrix) <- topicCorpus$AuthorID
+
+set.seed(9)
+tsne_model_1 <- Rtsne(datamatrix, initial_dims = 100,  check_duplicates=FALSE, pca=T, perplexity=10, theta=0.0, dims=2)
+tsneMat <- tsne_model_1$Y
+
+rownames(tsneMat) <- topicCorpus$AuthorID
+coordinates <- as_tibble(tsneMat)
+coordinates$AuthorID <- topicCorpus$AuthorID
+
+
+coordinates %>% 
+  mutate(AuthorID = map_chr(topicCorpus$AuthorID, getName)) %>%
+  mutate(Genre = map_chr(topicCorpus$AuthorID, getGenre)) %>%
+  ggplot() +
+  geom_point(aes(x = V1, y = V2, colour = Genre), show.legend = F) +
+  geom_label_repel(aes(x = V1, y = V2, colour = Genre, label = Genre), show.legend = F, box.padding = 0.1, fill = "whitesmoke")  +
+  theme(panel.border = element_blank(),
+        panel.background = element_rect(fill = "darkslategrey"),
+        axis.line = element_blank(),
+        axis.ticks = element_blank(),
+        axis.title = element_blank(),
+        axis.text = element_blank(),
+        panel.grid.major = element_blank())
+
+ggsave("tsneViz/tsneGenre.png", scale = 2)
+
 
