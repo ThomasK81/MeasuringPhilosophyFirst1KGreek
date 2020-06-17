@@ -1211,6 +1211,7 @@ topicCorpus %>%
   mutate(Philosophy = ifelse(Genre == "philosophy", T, F)) %>%
   mutate(Label = ifelse(Genre != "philosophy" & philscore > 0, AuthorID, "")) %>%
   mutate(Genre = ifelse(Genre %in% c("unknown", "philosophy") | philscore <= 0, "excluded", Genre)) %>%
+  filter(Genre != "excluded") %>%
   # mutate(Label = "") %>%
   ggplot(aes(x=Topic13_29,y=Topic24_39)) +
   geom_abline(slope = -1) +
@@ -1237,7 +1238,8 @@ topicCorpus %>%
         axis.title.y = element_text(size = 14),
         axis.title.x = element_text(size = 14),
         plot.title = element_text(size = 18)) +
-  scale_y_continuous(expand = c(0.02,0.02))
+  scale_y_continuous(expand = c(0.02,0.02)) +
+  coord_cartesian(ylim = c(-6,6), xlim = c(-5,5))
 
 ggsave("philScorePlots/philscorelabelsNoPhil.png", scale = 1)
 
