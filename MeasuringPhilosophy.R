@@ -2,11 +2,11 @@
 
 # data cleaning
 library(tidyverse)
-library(reshape2)
+# library(reshape2)
 
 # parallelisation
-library(doParallel)
-library(foreach)
+# library(doParallel)
+# library(foreach)
 
 # plot related
 library(extrafont)
